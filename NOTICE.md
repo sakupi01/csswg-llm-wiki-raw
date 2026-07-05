@@ -11,9 +11,12 @@ This repository is a **read-only archival mirror** of public primary sources of 
   Every item records its author, timestamps, and a permalink to the original.
 - `w3c-api/` — specification status metadata retrieved from the public
   [W3C API](https://api.w3.org/) (snapshot dates recorded in each file).
-- `www-style/` — selected messages (meeting minutes) from the public
+- `www-style/` — selected messages (primarily `[CSSWG] Minutes`/`Resolutions`
+  mails, 2008–2017) from the public
   [www-style mailing-list archive](https://lists.w3.org/Archives/Public/www-style/),
-  each with its `archived-at` permalink.
+  fetched politely (1 request/second, identified User-Agent), each with its
+  `archived-at` permalink. **Email addresses are not republished**: the archive
+  deliberately obfuscates them and this mirror keeps only display names.
 
 ## Attribution & purpose
 
