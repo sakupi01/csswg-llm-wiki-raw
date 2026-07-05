@@ -1,0 +1,16 @@
+{
+  "shortname": "css-2022",
+  "title": "CSS Snapshot 2022",
+  "shortlink": "https://www.w3.org/TR/css-2022/",
+  "series": "css-2022",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2022-11-22",
+      "status": "Draft Note",
+      "maturity": "DNOTE",
+      "uri": "https://www.w3.org/TR/2022/DNOTE-css-2022-20221122/",
+      "editor_draft": "https://drafts.csswg.org/css-2022/"
+    }
+  ]
+}

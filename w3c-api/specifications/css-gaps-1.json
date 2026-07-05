@@ -1,0 +1,30 @@
+{
+  "shortname": "css-gaps-1",
+  "title": "CSS Gaps Module Level 1",
+  "shortlink": "https://www.w3.org/TR/css-gaps-1/",
+  "series": "css-gaps-1",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2025-04-17",
+      "status": "First Public Working Draft",
+      "maturity": "FPWD",
+      "uri": "https://www.w3.org/TR/2025/WD-css-gaps-1-20250417/",
+      "editor_draft": "https://drafts.csswg.org/css-gaps-1/"
+    },
+    {
+      "date": "2026-02-27",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260227/",
+      "editor_draft": "https://drafts.csswg.org/css-gaps-1/"
+    },
+    {
+      "date": "2026-06-24",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260624/",
+      "editor_draft": "https://drafts.csswg.org/css-gaps-1/"
+    }
+  ]
+}

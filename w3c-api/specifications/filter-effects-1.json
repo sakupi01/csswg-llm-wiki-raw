@@ -1,0 +1,51 @@
+{
+  "shortname": "filter-effects-1",
+  "title": "Filter Effects Module Level 1",
+  "shortlink": "https://www.w3.org/TR/filter-effects-1/",
+  "series": "filter-effects-1",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2012-10-25",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2012/WD-filter-effects-20121025/",
+      "editor_draft": "https://drafts.csswg.org/filter-effects-1/"
+    },
+    {
+      "date": "2013-05-23",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2013/WD-filter-effects-20130523/",
+      "editor_draft": "https://drafts.csswg.org/filter-effects-1/"
+    },
+    {
+      "date": "2013-11-26",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2013/WD-filter-effects-1-20131126/",
+      "editor_draft": "https://drafts.csswg.org/filter-effects-1/"
+    },
+    {
+      "date": "2014-11-25",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2014/WD-filter-effects-1-20141125/",
+      "editor_draft": "https://drafts.csswg.org/filter-effects-1/"
+    },
+    {
+      "date": "2018-11-24",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2018/WD-filter-effects-1-20181124/",
+      "editor_draft": "https://drafts.csswg.org/filter-effects-1/"
+    },
+    {
+      "date": "2018-12-18",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2018/WD-filter-effects-1-20181218/",
+      "editor_draft": "https://drafts.csswg.org/filter-effects-1/"
+    }
+  ]
+}

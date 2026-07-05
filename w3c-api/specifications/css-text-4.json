@@ -1,0 +1,93 @@
+{
+  "shortname": "css-text-4",
+  "title": "CSS Text Module Level 4",
+  "shortlink": "https://www.w3.org/TR/css-text-4/",
+  "series": "css-text-4",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2015-09-22",
+      "status": "First Public Working Draft",
+      "maturity": "FPWD",
+      "uri": "https://www.w3.org/TR/2015/WD-css-text-4-20150922/",
+      "editor_draft": "https://drafts.csswg.org/css-text-4/"
+    },
+    {
+      "date": "2018-09-20",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2018/WD-css-text-4-20180920/",
+      "editor_draft": "https://drafts.csswg.org/css-text-4/"
+    },
+    {
+      "date": "2019-11-13",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2019/WD-css-text-4-20191113/",
+      "editor_draft": "https://drafts.csswg.org/css-text-4/"
+    },
+    {
+      "date": "2022-03-18",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2022/WD-css-text-4-20220318/",
+      "editor_draft": "https://drafts.csswg.org/css-text-4/"
+    },
+    {
+      "date": "2022-05-05",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2022/WD-css-text-4-20220505/",
+      "editor_draft": "https://drafts.csswg.org/css-text-4/"
+    },
+    {
+      "date": "2022-12-31",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2022/WD-css-text-4-20221231/",
+      "editor_draft": "https://drafts.csswg.org/css-text-4/"
+    },
+    {
+      "date": "2023-03-01",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2023/WD-css-text-4-20230301/",
+      "editor_draft": "https://drafts.csswg.org/css-text-4/"
+    },
+    {
+      "date": "2023-03-29",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2023/WD-css-text-4-20230329/",
+      "editor_draft": "https://drafts.csswg.org/css-text-4/"
+    },
+    {
+      "date": "2023-10-20",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2023/WD-css-text-4-20231020/",
+      "editor_draft": "https://drafts.csswg.org/css-text-4/"
+    },
+    {
+      "date": "2024-02-19",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2024/WD-css-text-4-20240219/",
+      "editor_draft": "https://drafts.csswg.org/css-text-4/"
+    },
+    {
+      "date": "2024-05-29",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2024/WD-css-text-4-20240529/",
+      "editor_draft": "https://drafts.csswg.org/css-text-4/"
+    },
+    {
+      "date": "2026-06-08",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2026/WD-css-text-4-20260608/",
+      "editor_draft": "https://drafts.csswg.org/css-text-4/"
+    }
+  ]
+}

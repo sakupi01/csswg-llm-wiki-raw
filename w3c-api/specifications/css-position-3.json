@@ -1,0 +1,86 @@
+{
+  "shortname": "css-position-3",
+  "title": "CSS Positioned Layout Module Level 3",
+  "shortlink": "https://www.w3.org/TR/css-position-3/",
+  "series": "css-position-3",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2012-02-07",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2012/WD-css3-positioning-20120207/",
+      "editor_draft": "https://drafts.csswg.org/css-position-3/"
+    },
+    {
+      "date": "2015-02-03",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2015/WD-css3-positioning-20150203/",
+      "editor_draft": "https://drafts.csswg.org/css-position-3/"
+    },
+    {
+      "date": "2016-05-17",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2016/WD-css-position-3-20160517/",
+      "editor_draft": "https://drafts.csswg.org/css-position-3/"
+    },
+    {
+      "date": "2020-05-19",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2020/WD-css-position-3-20200519/",
+      "editor_draft": "https://drafts.csswg.org/css-position-3/"
+    },
+    {
+      "date": "2021-12-16",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2021/WD-css-position-3-20211216/",
+      "editor_draft": "https://drafts.csswg.org/css-position-3/"
+    },
+    {
+      "date": "2022-09-01",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2022/WD-css-position-3-20220901/",
+      "editor_draft": "https://drafts.csswg.org/css-position-3/"
+    },
+    {
+      "date": "2023-02-17",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2023/WD-css-position-3-20230217/",
+      "editor_draft": "https://drafts.csswg.org/css-position-3/"
+    },
+    {
+      "date": "2023-04-03",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2023/WD-css-position-3-20230403/",
+      "editor_draft": "https://drafts.csswg.org/css-position-3/"
+    },
+    {
+      "date": "2024-08-10",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2024/WD-css-position-3-20240810/",
+      "editor_draft": "https://drafts.csswg.org/css-position-3/"
+    },
+    {
+      "date": "2025-03-11",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2025/WD-css-position-3-20250311/",
+      "editor_draft": "https://drafts.csswg.org/css-position-3/"
+    },
+    {
+      "date": "2025-10-07",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2025/WD-css-position-3-20251007/",
+      "editor_draft": "https://drafts.csswg.org/css-position-3/"
+    }
+  ]
+}

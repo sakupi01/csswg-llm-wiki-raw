@@ -1,0 +1,65 @@
+{
+  "shortname": "css-transitions-1",
+  "title": "CSS Transitions Module Level 1",
+  "shortlink": "https://www.w3.org/TR/css-transitions-1/",
+  "series": null,
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2009-03-20",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2009/WD-css3-transitions-20090320",
+      "editor_draft": "https://drafts.csswg.org/css-transitions/"
+    },
+    {
+      "date": "2009-12-01",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2009/WD-css3-transitions-20091201/",
+      "editor_draft": "https://drafts.csswg.org/css-transitions/"
+    },
+    {
+      "date": "2012-04-03",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2012/WD-css3-transitions-20120403/",
+      "editor_draft": "https://drafts.csswg.org/css-transitions/"
+    },
+    {
+      "date": "2013-02-12",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2013/WD-css3-transitions-20130212/",
+      "editor_draft": "https://drafts.csswg.org/css-transitions/"
+    },
+    {
+      "date": "2013-11-19",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2013/WD-css3-transitions-20131119/",
+      "editor_draft": "https://drafts.csswg.org/css-transitions/"
+    },
+    {
+      "date": "2017-11-30",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2017/WD-css-transitions-1-20171130/",
+      "editor_draft": "https://drafts.csswg.org/css-transitions/"
+    },
+    {
+      "date": "2018-10-11",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2018/WD-css-transitions-1-20181011/",
+      "editor_draft": "https://drafts.csswg.org/css-transitions/"
+    },
+    {
+      "date": "2026-01-08",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2026/WD-css-transitions-1-20260108/",
+      "editor_draft": "https://drafts.csswg.org/css-transitions/"
+    }
+  ]
+}

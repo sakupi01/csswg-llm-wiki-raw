@@ -1,0 +1,100 @@
+{
+  "shortname": "css-values-4",
+  "title": "CSS Values and Units Module Level 4",
+  "shortlink": "https://www.w3.org/TR/css-values-4/",
+  "series": "css-values-4",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2018-08-14",
+      "status": "First Public Working Draft",
+      "maturity": "FPWD",
+      "uri": "https://www.w3.org/TR/2018/WD-css-values-4-20180814/",
+      "editor_draft": "https://drafts.csswg.org/css-values-4/"
+    },
+    {
+      "date": "2018-10-10",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2018/WD-css-values-4-20181010/",
+      "editor_draft": "https://drafts.csswg.org/css-values-4/"
+    },
+    {
+      "date": "2019-01-31",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2019/WD-css-values-4-20190131/",
+      "editor_draft": "https://drafts.csswg.org/css-values-4/"
+    },
+    {
+      "date": "2020-11-11",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2020/WD-css-values-4-20201111/",
+      "editor_draft": "https://drafts.csswg.org/css-values-4/"
+    },
+    {
+      "date": "2021-07-15",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2021/WD-css-values-4-20210715/",
+      "editor_draft": "https://drafts.csswg.org/css-values-4/"
+    },
+    {
+      "date": "2021-09-30",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2021/WD-css-values-4-20210930/",
+      "editor_draft": "https://drafts.csswg.org/css-values-4/"
+    },
+    {
+      "date": "2021-10-16",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2021/WD-css-values-4-20211016/",
+      "editor_draft": "https://drafts.csswg.org/css-values-4/"
+    },
+    {
+      "date": "2021-12-16",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2021/WD-css-values-4-20211216/",
+      "editor_draft": "https://drafts.csswg.org/css-values-4/"
+    },
+    {
+      "date": "2022-10-19",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2022/WD-css-values-4-20221019/",
+      "editor_draft": "https://drafts.csswg.org/css-values-4/"
+    },
+    {
+      "date": "2023-04-06",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2023/WD-css-values-4-20230406/",
+      "editor_draft": "https://drafts.csswg.org/css-values-4/"
+    },
+    {
+      "date": "2023-10-27",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2023/WD-css-values-4-20231027/",
+      "editor_draft": "https://drafts.csswg.org/css-values-4/"
+    },
+    {
+      "date": "2023-12-18",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2023/WD-css-values-4-20231218/",
+      "editor_draft": "https://drafts.csswg.org/css-values-4/"
+    },
+    {
+      "date": "2024-03-12",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2024/WD-css-values-4-20240312/",
+      "editor_draft": "https://drafts.csswg.org/css-values-4/"
+    }
+  ]
+}

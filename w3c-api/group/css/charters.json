@@ -1,0 +1,57 @@
+{
+  "snapshot_at": "2026-07-04",
+  "charters": [
+    {
+      "href": "https://api.w3.org/groups/wg/css/charters/102",
+      "title": "1997-02-28 -> 1999-02-28"
+    },
+    {
+      "href": "https://api.w3.org/groups/wg/css/charters/103",
+      "title": "1999-03-22 -> 2000-03-31"
+    },
+    {
+      "href": "https://api.w3.org/groups/wg/css/charters/104",
+      "title": "2001-07-31 -> 2002-07-31"
+    },
+    {
+      "href": "https://api.w3.org/groups/wg/css/charters/105",
+      "title": "2002-10-15 -> 2004-08-31"
+    },
+    {
+      "href": "https://api.w3.org/groups/wg/css/charters/106",
+      "title": "2006-06-28 -> 2008-07-31"
+    },
+    {
+      "href": "https://api.w3.org/groups/wg/css/charters/107",
+      "title": "2008-12-03 -> 2010-11-30"
+    },
+    {
+      "href": "https://api.w3.org/groups/wg/css/charters/108",
+      "title": "2011-12-14 -> 2013-09-30"
+    },
+    {
+      "href": "https://api.w3.org/groups/wg/css/charters/109",
+      "title": "2014-07-01 -> 2016-06-15"
+    },
+    {
+      "href": "https://api.w3.org/groups/wg/css/charters/328",
+      "title": "2016-09-16 -> 2019-09-14"
+    },
+    {
+      "href": "https://api.w3.org/groups/wg/css/charters/380",
+      "title": "2019-10-03 -> 2020-12-14"
+    },
+    {
+      "href": "https://api.w3.org/groups/wg/css/charters/419",
+      "title": "2020-12-15 -> 2022-09-30"
+    },
+    {
+      "href": "https://api.w3.org/groups/wg/css/charters/473",
+      "title": "2023-01-12 -> 2025-01-12"
+    },
+    {
+      "href": "https://api.w3.org/groups/wg/css/charters/533",
+      "title": "2025-03-17 -> 2027-03-17"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "shortname": "css-2025",
+  "title": "CSS Snapshot 2025",
+  "shortlink": "https://www.w3.org/TR/css-2025/",
+  "series": "css-2025",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2025-09-09",
+      "status": "Note",
+      "maturity": "NOTE",
+      "uri": "https://www.w3.org/TR/2025/NOTE-css-2025-20250909/",
+      "editor_draft": "https://drafts.csswg.org/css-2025/"
+    },
+    {
+      "date": "2025-09-18",
+      "status": "Note",
+      "maturity": "NOTE",
+      "uri": "https://www.w3.org/TR/2025/NOTE-css-2025-20250918/",
+      "editor_draft": "https://drafts.csswg.org/css-2025/"
+    }
+  ]
+}

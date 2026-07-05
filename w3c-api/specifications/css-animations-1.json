@@ -1,0 +1,51 @@
+{
+  "shortname": "css-animations-1",
+  "title": "CSS Animations Level 1",
+  "shortlink": "https://www.w3.org/TR/css-animations-1/",
+  "series": "css-animations-1",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2009-03-20",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2009/WD-css3-animations-20090320/",
+      "editor_draft": "https://drafts.csswg.org/css-animations/"
+    },
+    {
+      "date": "2012-04-03",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2012/WD-css3-animations-20120403/",
+      "editor_draft": "https://drafts.csswg.org/css-animations/"
+    },
+    {
+      "date": "2013-02-19",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2013/WD-css3-animations-20130219/",
+      "editor_draft": "https://drafts.csswg.org/css-animations/"
+    },
+    {
+      "date": "2017-11-30",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2017/WD-css-animations-1-20171130/",
+      "editor_draft": "https://drafts.csswg.org/css-animations/"
+    },
+    {
+      "date": "2018-10-11",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2018/WD-css-animations-1-20181011/",
+      "editor_draft": "https://drafts.csswg.org/css-animations/"
+    },
+    {
+      "date": "2023-03-02",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2023/WD-css-animations-1-20230302/",
+      "editor_draft": "https://drafts.csswg.org/css-animations/"
+    }
+  ]
+}

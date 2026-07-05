@@ -1,0 +1,135 @@
+{
+  "shortname": "css-align-3",
+  "title": "CSS Box Alignment Module Level 3",
+  "shortlink": "https://www.w3.org/TR/css-align-3/",
+  "series": "css-align-3",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2012-06-12",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2012/WD-css3-align-20120612/",
+      "editor_draft": "https://drafts.csswg.org/css-align/"
+    },
+    {
+      "date": "2013-05-14",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2013/WD-css3-align-20130514/",
+      "editor_draft": "https://drafts.csswg.org/css-align/"
+    },
+    {
+      "date": "2014-12-18",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2014/WD-css-align-3-20141218/",
+      "editor_draft": "https://drafts.csswg.org/css-align/"
+    },
+    {
+      "date": "2016-05-19",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2016/WD-css-align-3-20160519/",
+      "editor_draft": "https://drafts.csswg.org/css-align/"
+    },
+    {
+      "date": "2016-06-14",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2016/WD-css-align-3-20160614/",
+      "editor_draft": "https://drafts.csswg.org/css-align/"
+    },
+    {
+      "date": "2017-02-15",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2017/WD-css-align-3-20170215/",
+      "editor_draft": "https://drafts.csswg.org/css-align/"
+    },
+    {
+      "date": "2017-04-07",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2017/WD-css-align-3-20170407/",
+      "editor_draft": "https://drafts.csswg.org/css-align/"
+    },
+    {
+      "date": "2017-05-15",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2017/WD-css-align-3-20170515/",
+      "editor_draft": "https://drafts.csswg.org/css-align/"
+    },
+    {
+      "date": "2017-07-20",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2017/WD-css-align-3-20170720/",
+      "editor_draft": "https://drafts.csswg.org/css-align/"
+    },
+    {
+      "date": "2017-09-06",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2017/WD-css-align-3-20170906/",
+      "editor_draft": "https://drafts.csswg.org/css-align/"
+    },
+    {
+      "date": "2018-04-23",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2018/WD-css-align-3-20180423/",
+      "editor_draft": "https://drafts.csswg.org/css-align/"
+    },
+    {
+      "date": "2018-08-30",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2018/WD-css-align-3-20180830/",
+      "editor_draft": "https://drafts.csswg.org/css-align/"
+    },
+    {
+      "date": "2018-12-06",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2018/WD-css-align-3-20181206/",
+      "editor_draft": "https://drafts.csswg.org/css-align/"
+    },
+    {
+      "date": "2020-04-21",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2020/WD-css-align-3-20200421/",
+      "editor_draft": "https://drafts.csswg.org/css-align/"
+    },
+    {
+      "date": "2021-12-24",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2021/WD-css-align-3-20211224/",
+      "editor_draft": "https://drafts.csswg.org/css-align/"
+    },
+    {
+      "date": "2023-02-17",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2023/WD-css-align-3-20230217/",
+      "editor_draft": "https://drafts.csswg.org/css-align/"
+    },
+    {
+      "date": "2025-03-11",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2025/WD-css-align-3-20250311/",
+      "editor_draft": "https://drafts.csswg.org/css-align/"
+    },
+    {
+      "date": "2026-01-30",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2026/WD-css-align-3-20260130/",
+      "editor_draft": "https://drafts.csswg.org/css-align/"
+    }
+  ]
+}

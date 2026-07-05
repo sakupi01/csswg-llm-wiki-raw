@@ -1,0 +1,44 @@
+{
+  "shortname": "scroll-animations-1",
+  "title": "Scroll-driven Animations",
+  "shortlink": "https://www.w3.org/TR/scroll-animations-1/",
+  "series": null,
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2022-10-25",
+      "status": "First Public Working Draft",
+      "maturity": "FPWD",
+      "uri": "https://www.w3.org/TR/2022/WD-scroll-animations-1-20221025/",
+      "editor_draft": "https://drafts.csswg.org/scroll-animations-1/"
+    },
+    {
+      "date": "2022-12-08",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2022/WD-scroll-animations-1-20221208/",
+      "editor_draft": "https://drafts.csswg.org/scroll-animations-1/"
+    },
+    {
+      "date": "2023-04-06",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2023/WD-scroll-animations-1-20230406/",
+      "editor_draft": "https://drafts.csswg.org/scroll-animations-1/"
+    },
+    {
+      "date": "2023-04-28",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2023/WD-scroll-animations-1-20230428/",
+      "editor_draft": "https://drafts.csswg.org/scroll-animations-1/"
+    },
+    {
+      "date": "2023-06-06",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2023/WD-scroll-animations-1-20230606/",
+      "editor_draft": "https://drafts.csswg.org/scroll-animations-1/"
+    }
+  ]
+}

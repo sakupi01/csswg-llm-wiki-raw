@@ -1,0 +1,58 @@
+{
+  "shortname": "compositing-1",
+  "title": "Compositing and Blending Level 1",
+  "shortlink": "https://www.w3.org/TR/compositing-1/",
+  "series": "compositing-1",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2012-08-16",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2012/WD-compositing-20120816/",
+      "editor_draft": "https://drafts.csswg.org/compositing-1/"
+    },
+    {
+      "date": "2013-06-25",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2013/WD-compositing-1-20130625/",
+      "editor_draft": "https://drafts.csswg.org/compositing-1/"
+    },
+    {
+      "date": "2013-10-10",
+      "status": "Last Call Working Draft",
+      "maturity": "LCWD",
+      "uri": "https://www.w3.org/TR/2013/WD-compositing-1-20131010/",
+      "editor_draft": "https://drafts.csswg.org/compositing-1/"
+    },
+    {
+      "date": "2014-01-07",
+      "status": "Last Call Working Draft",
+      "maturity": "LCWD",
+      "uri": "https://www.w3.org/TR/2014/WD-compositing-1-20140107/",
+      "editor_draft": "https://drafts.csswg.org/compositing-1/"
+    },
+    {
+      "date": "2014-02-20",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2014/CR-compositing-1-20140220/",
+      "editor_draft": "https://drafts.csswg.org/compositing-1/"
+    },
+    {
+      "date": "2015-01-13",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2015/CR-compositing-1-20150113/",
+      "editor_draft": "https://drafts.csswg.org/compositing-1/"
+    },
+    {
+      "date": "2024-03-21",
+      "status": "Candidate Recommendation Draft",
+      "maturity": "CRD",
+      "uri": "https://www.w3.org/TR/2024/CRD-compositing-1-20240321/",
+      "editor_draft": "https://drafts.csswg.org/compositing-1/"
+    }
+  ]
+}

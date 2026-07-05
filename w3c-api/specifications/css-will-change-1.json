@@ -1,0 +1,30 @@
+{
+  "shortname": "css-will-change-1",
+  "title": "CSS Will Change Module Level 1",
+  "shortlink": "https://www.w3.org/TR/css-will-change-1/",
+  "series": "css-will-change-1",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2014-04-29",
+      "status": "First Public Working Draft",
+      "maturity": "FPWD",
+      "uri": "https://www.w3.org/TR/2014/WD-css-will-change-1-20140429/",
+      "editor_draft": "https://drafts.csswg.org/css-will-change/"
+    },
+    {
+      "date": "2015-12-03",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2015/CR-css-will-change-1-20151203/",
+      "editor_draft": "https://drafts.csswg.org/css-will-change/"
+    },
+    {
+      "date": "2022-05-05",
+      "status": "Candidate Recommendation Draft",
+      "maturity": "CRD",
+      "uri": "https://www.w3.org/TR/2022/CRD-css-will-change-1-20220505/",
+      "editor_draft": "https://drafts.csswg.org/css-will-change/"
+    }
+  ]
+}

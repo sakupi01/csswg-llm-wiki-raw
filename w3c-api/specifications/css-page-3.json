@@ -1,0 +1,72 @@
+{
+  "shortname": "css-page-3",
+  "title": "CSS Paged Media Module Level 3",
+  "shortlink": "https://www.w3.org/TR/css-page-3/",
+  "series": "css-page-3",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "1999-06-23",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/1999/06/WD-css3-page-19990623",
+      "editor_draft": "https://drafts.csswg.org/css-page-3/"
+    },
+    {
+      "date": "1999-09-28",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/1999/WD-css3-page-19990928",
+      "editor_draft": "https://drafts.csswg.org/css-page-3/"
+    },
+    {
+      "date": "2003-09-09",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2003/WD-css3-page-20030909",
+      "editor_draft": "https://drafts.csswg.org/css-page-3/"
+    },
+    {
+      "date": "2003-12-18",
+      "status": "Last Call Working Draft",
+      "maturity": "LCWD",
+      "uri": "https://www.w3.org/TR/2003/WD-css3-page-20031218",
+      "editor_draft": "https://drafts.csswg.org/css-page-3/"
+    },
+    {
+      "date": "2004-02-25",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2004/CR-css3-page-20040225",
+      "editor_draft": "https://drafts.csswg.org/css-page-3/"
+    },
+    {
+      "date": "2006-10-10",
+      "status": "Last Call Working Draft",
+      "maturity": "LCWD",
+      "uri": "https://www.w3.org/TR/2006/WD-css3-page-20061010/",
+      "editor_draft": "https://drafts.csswg.org/css-page-3/"
+    },
+    {
+      "date": "2013-03-14",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2013/WD-css3-page-20130314/",
+      "editor_draft": "https://drafts.csswg.org/css-page-3/"
+    },
+    {
+      "date": "2018-10-18",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2018/WD-css-page-3-20181018/",
+      "editor_draft": "https://drafts.csswg.org/css-page-3/"
+    },
+    {
+      "date": "2023-09-14",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2023/WD-css-page-3-20230914/",
+      "editor_draft": "https://drafts.csswg.org/css-page-3/"
+    }
+  ]
+}

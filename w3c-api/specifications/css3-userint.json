@@ -1,0 +1,23 @@
+{
+  "shortname": "css3-userint",
+  "title": "User Interface for CSS3",
+  "shortlink": "https://www.w3.org/TR/css3-userint",
+  "series": "css3-userint",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2000-02-16",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2000/WD-css3-userint-20000216",
+      "editor_draft": null
+    },
+    {
+      "date": "2002-08-02",
+      "status": "Retired",
+      "maturity": "RETIRED",
+      "uri": "https://www.w3.org/TR/2002/WD-css3-userint-20020802",
+      "editor_draft": null
+    }
+  ]
+}

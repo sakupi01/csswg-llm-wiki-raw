@@ -1,0 +1,16 @@
+{
+  "shortname": "css-2024",
+  "title": "CSS Snapshot 2024",
+  "shortlink": "https://www.w3.org/TR/css-2024/",
+  "series": "css-2024",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2025-02-25",
+      "status": "Note",
+      "maturity": "NOTE",
+      "uri": "https://www.w3.org/TR/2025/NOTE-css-2024-20250225/",
+      "editor_draft": "https://drafts.csswg.org/css-2024/"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "shortname": "css-easing-1",
+  "title": "CSS Easing Functions Level 1",
+  "shortlink": "https://www.w3.org/TR/css-easing-1/",
+  "series": "css-easing-1",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2017-02-21",
+      "status": "First Public Working Draft",
+      "maturity": "FPWD",
+      "uri": "https://www.w3.org/TR/2017/WD-css-timing-1-20170221/",
+      "editor_draft": "https://drafts.csswg.org/css-easing/"
+    },
+    {
+      "date": "2018-09-26",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2018/WD-css-timing-1-20180926/",
+      "editor_draft": "https://drafts.csswg.org/css-easing/"
+    },
+    {
+      "date": "2018-10-09",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2018/WD-css-easing-1-20181009/",
+      "editor_draft": "https://drafts.csswg.org/css-easing/"
+    },
+    {
+      "date": "2019-04-30",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2019/CR-css-easing-1-20190430/",
+      "editor_draft": "https://drafts.csswg.org/css-easing/"
+    },
+    {
+      "date": "2021-04-01",
+      "status": "Candidate Recommendation Draft",
+      "maturity": "CRD",
+      "uri": "https://www.w3.org/TR/2021/CRD-css-easing-1-20210401/",
+      "editor_draft": "https://drafts.csswg.org/css-easing/"
+    },
+    {
+      "date": "2023-02-13",
+      "status": "Candidate Recommendation Draft",
+      "maturity": "CRD",
+      "uri": "https://www.w3.org/TR/2023/CRD-css-easing-1-20230213/",
+      "editor_draft": "https://drafts.csswg.org/css-easing/"
+    }
+  ]
+}

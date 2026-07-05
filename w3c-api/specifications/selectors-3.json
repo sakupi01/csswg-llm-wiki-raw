@@ -1,0 +1,93 @@
+{
+  "shortname": "selectors-3",
+  "title": "Selectors Level 3",
+  "shortlink": "https://www.w3.org/TR/selectors-3/",
+  "series": "selectors-3",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "1999-08-03",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/1999/WD-CSS3-selectors-19990803",
+      "editor_draft": "https://drafts.csswg.org/selectors-3/"
+    },
+    {
+      "date": "2000-04-10",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2000/WD-css3-selectors-20000410",
+      "editor_draft": "https://drafts.csswg.org/selectors-3/"
+    },
+    {
+      "date": "2000-10-05",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2000/WD-css3-selectors-20001005",
+      "editor_draft": "https://drafts.csswg.org/selectors-3/"
+    },
+    {
+      "date": "2001-01-26",
+      "status": "Last Call Working Draft",
+      "maturity": "LCWD",
+      "uri": "https://www.w3.org/TR/2001/WD-css3-selectors-20010126",
+      "editor_draft": "https://drafts.csswg.org/selectors-3/"
+    },
+    {
+      "date": "2001-11-13",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2001/CR-css3-selectors-20011113/",
+      "editor_draft": "https://drafts.csswg.org/selectors-3/"
+    },
+    {
+      "date": "2005-12-15",
+      "status": "Last Call Working Draft",
+      "maturity": "LCWD",
+      "uri": "https://www.w3.org/TR/2005/WD-css3-selectors-20051215",
+      "editor_draft": "https://drafts.csswg.org/selectors-3/"
+    },
+    {
+      "date": "2009-03-10",
+      "status": "Last Call Working Draft",
+      "maturity": "LCWD",
+      "uri": "https://www.w3.org/TR/2009/WD-css3-selectors-20090310",
+      "editor_draft": "https://drafts.csswg.org/selectors-3/"
+    },
+    {
+      "date": "2009-12-15",
+      "status": "Proposed Recommendation",
+      "maturity": "PR",
+      "uri": "https://www.w3.org/TR/2009/PR-css3-selectors-20091215/",
+      "editor_draft": "https://drafts.csswg.org/selectors-3/"
+    },
+    {
+      "date": "2011-09-29",
+      "status": "Recommendation",
+      "maturity": "REC",
+      "uri": "https://www.w3.org/TR/2011/REC-css3-selectors-20110929/",
+      "editor_draft": "https://drafts.csswg.org/selectors-3/"
+    },
+    {
+      "date": "2018-01-30",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2018/CR-selectors-3-20180130/",
+      "editor_draft": "https://drafts.csswg.org/selectors-3/"
+    },
+    {
+      "date": "2018-09-11",
+      "status": "Proposed Recommendation",
+      "maturity": "PR",
+      "uri": "https://www.w3.org/TR/2018/PR-selectors-3-20180911/",
+      "editor_draft": "https://drafts.csswg.org/selectors-3/"
+    },
+    {
+      "date": "2018-11-06",
+      "status": "Recommendation",
+      "maturity": "REC",
+      "uri": "https://www.w3.org/TR/2018/REC-selectors-3-20181106/",
+      "editor_draft": "https://drafts.csswg.org/selectors-3/"
+    }
+  ]
+}

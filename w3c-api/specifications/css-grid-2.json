@@ -1,0 +1,72 @@
+{
+  "shortname": "css-grid-2",
+  "title": "CSS Grid Layout Module Level 2",
+  "shortlink": "https://www.w3.org/TR/css-grid-2/",
+  "series": "css-grid-2",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2018-02-06",
+      "status": "First Public Working Draft",
+      "maturity": "FPWD",
+      "uri": "https://www.w3.org/TR/2018/WD-css-grid-2-20180206/",
+      "editor_draft": "https://drafts.csswg.org/css-grid-2/"
+    },
+    {
+      "date": "2018-04-27",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2018/WD-css-grid-2-20180427/",
+      "editor_draft": "https://drafts.csswg.org/css-grid-2/"
+    },
+    {
+      "date": "2018-06-28",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2018/WD-css-grid-2-20180628/",
+      "editor_draft": "https://drafts.csswg.org/css-grid-2/"
+    },
+    {
+      "date": "2018-08-04",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2018/WD-css-grid-2-20180804/",
+      "editor_draft": "https://drafts.csswg.org/css-grid-2/"
+    },
+    {
+      "date": "2019-12-03",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2019/WD-css-grid-2-20191203/",
+      "editor_draft": "https://drafts.csswg.org/css-grid-2/"
+    },
+    {
+      "date": "2020-08-18",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2020/CR-css-grid-2-20200818/",
+      "editor_draft": "https://drafts.csswg.org/css-grid-2/"
+    },
+    {
+      "date": "2020-10-21",
+      "status": "Candidate Recommendation Draft",
+      "maturity": "CRD",
+      "uri": "https://www.w3.org/TR/2020/CRD-css-grid-2-20201021/",
+      "editor_draft": "https://drafts.csswg.org/css-grid-2/"
+    },
+    {
+      "date": "2020-12-18",
+      "status": "Candidate Recommendation Draft",
+      "maturity": "CRD",
+      "uri": "https://www.w3.org/TR/2020/CRD-css-grid-2-20201218/",
+      "editor_draft": "https://drafts.csswg.org/css-grid-2/"
+    },
+    {
+      "date": "2025-03-26",
+      "status": "Candidate Recommendation Draft",
+      "maturity": "CRD",
+      "uri": "https://www.w3.org/TR/2025/CRD-css-grid-2-20250326/",
+      "editor_draft": "https://drafts.csswg.org/css-grid-2/"
+    }
+  ]
+}

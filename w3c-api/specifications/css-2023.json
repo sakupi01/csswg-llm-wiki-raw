@@ -1,0 +1,23 @@
+{
+  "shortname": "css-2023",
+  "title": "CSS Snapshot 2023",
+  "shortlink": "https://www.w3.org/TR/css-2023/",
+  "series": "css-2023",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2023-02-14",
+      "status": "Draft Note",
+      "maturity": "DNOTE",
+      "uri": "https://www.w3.org/TR/2023/DNOTE-css-2023-20230214/",
+      "editor_draft": "https://drafts.csswg.org/css-2023/"
+    },
+    {
+      "date": "2023-12-07",
+      "status": "Note",
+      "maturity": "NOTE",
+      "uri": "https://www.w3.org/TR/2023/NOTE-css-2023-20231207/",
+      "editor_draft": "https://drafts.csswg.org/css-2023/"
+    }
+  ]
+}

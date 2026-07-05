@@ -1,0 +1,135 @@
+{
+  "shortname": "css-fonts-3",
+  "title": "CSS Fonts Module Level 3",
+  "shortlink": "https://www.w3.org/TR/css-fonts-3/",
+  "series": "css-fonts-3",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "1997-07-21",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/WD-font-970721",
+      "editor_draft": null
+    },
+    {
+      "date": "1998-05-12",
+      "status": "Recommendation",
+      "maturity": "REC",
+      "uri": "https://www.w3.org/TR/1998/REC-CSS2-19980512/fonts.html",
+      "editor_draft": "https://drafts.csswg.org/css-fonts-3/"
+    },
+    {
+      "date": "1999-09-02",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/1999/WD-font-19990902",
+      "editor_draft": null
+    },
+    {
+      "date": "2001-07-31",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2001/WD-css3-fonts-20010731/",
+      "editor_draft": "https://drafts.csswg.org/css-fonts-3/"
+    },
+    {
+      "date": "2002-08-02",
+      "status": "Last Call Working Draft",
+      "maturity": "LCWD",
+      "uri": "https://www.w3.org/TR/2002/WD-css3-fonts-20020802",
+      "editor_draft": "https://drafts.csswg.org/css-fonts-3/"
+    },
+    {
+      "date": "2002-08-02",
+      "status": "Last Call Working Draft",
+      "maturity": "LCWD",
+      "uri": "https://www.w3.org/TR/2002/WD-css3-fonts-20020802",
+      "editor_draft": "https://drafts.csswg.org/css-fonts-3/"
+    },
+    {
+      "date": "2009-06-18",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2009/WD-css3-fonts-20090618",
+      "editor_draft": "https://drafts.csswg.org/css-fonts-3/"
+    },
+    {
+      "date": "2011-03-24",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2011/WD-css3-fonts-20110324/",
+      "editor_draft": "https://drafts.csswg.org/css-fonts-3/"
+    },
+    {
+      "date": "2011-10-04",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2011/WD-css3-fonts-20111004/",
+      "editor_draft": "https://drafts.csswg.org/css-fonts-3/"
+    },
+    {
+      "date": "2012-08-23",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2012/WD-css3-fonts-20120823/",
+      "editor_draft": "https://drafts.csswg.org/css-fonts-3/"
+    },
+    {
+      "date": "2012-12-11",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2012/WD-css3-fonts-20121211/",
+      "editor_draft": "https://drafts.csswg.org/css-fonts-3/"
+    },
+    {
+      "date": "2013-02-12",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2013/WD-css3-fonts-20130212/",
+      "editor_draft": "https://drafts.csswg.org/css-fonts-3/"
+    },
+    {
+      "date": "2013-07-11",
+      "status": "Last Call Working Draft",
+      "maturity": "LCWD",
+      "uri": "https://www.w3.org/TR/2013/WD-css-fonts-3-20130711/",
+      "editor_draft": "https://drafts.csswg.org/css-fonts-3/"
+    },
+    {
+      "date": "2013-10-03",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2013/CR-css-fonts-3-20131003/",
+      "editor_draft": "https://drafts.csswg.org/css-fonts-3/"
+    },
+    {
+      "date": "2018-03-15",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2018/CR-css-fonts-3-20180315/",
+      "editor_draft": "https://drafts.csswg.org/css-fonts-3/"
+    },
+    {
+      "date": "2018-06-26",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2018/CR-css-fonts-3-20180626/",
+      "editor_draft": "https://drafts.csswg.org/css-fonts-3/"
+    },
+    {
+      "date": "2018-08-14",
+      "status": "Proposed Recommendation",
+      "maturity": "PR",
+      "uri": "https://www.w3.org/TR/2018/PR-css-fonts-3-20180814/",
+      "editor_draft": "https://drafts.csswg.org/css-fonts-3/"
+    },
+    {
+      "date": "2018-09-20",
+      "status": "Recommendation",
+      "maturity": "REC",
+      "uri": "https://www.w3.org/TR/2018/REC-css-fonts-3-20180920/",
+      "editor_draft": "https://drafts.csswg.org/css-fonts-3/"
+    }
+  ]
+}

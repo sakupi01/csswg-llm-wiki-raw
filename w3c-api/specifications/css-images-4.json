@@ -1,0 +1,37 @@
+{
+  "shortname": "css-images-4",
+  "title": "CSS Images Module Level 4",
+  "shortlink": "https://www.w3.org/TR/css-images-4/",
+  "series": "css-images-4",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2012-09-11",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2012/WD-css4-images-20120911/",
+      "editor_draft": "https://drafts.csswg.org/css-images-4/"
+    },
+    {
+      "date": "2017-04-13",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2017/WD-css-images-4-20170413/",
+      "editor_draft": "https://drafts.csswg.org/css-images-4/"
+    },
+    {
+      "date": "2023-02-17",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2023/WD-css-images-4-20230217/",
+      "editor_draft": "https://drafts.csswg.org/css-images-4/"
+    },
+    {
+      "date": "2025-09-30",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2025/WD-css-images-4-20250930/",
+      "editor_draft": "https://drafts.csswg.org/css-images-4/"
+    }
+  ]
+}

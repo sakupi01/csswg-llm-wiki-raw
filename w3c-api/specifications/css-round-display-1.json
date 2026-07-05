@@ -1,0 +1,30 @@
+{
+  "shortname": "css-round-display-1",
+  "title": "CSS Round Display Level 1",
+  "shortlink": "https://www.w3.org/TR/css-round-display-1/",
+  "series": "css-round-display-1",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2015-09-22",
+      "status": "First Public Working Draft",
+      "maturity": "FPWD",
+      "uri": "https://www.w3.org/TR/2015/WD-css-round-display-1-20150922/",
+      "editor_draft": "https://drafts.csswg.org/css-round-display/"
+    },
+    {
+      "date": "2016-03-01",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2016/WD-css-round-display-1-20160301/",
+      "editor_draft": "https://drafts.csswg.org/css-round-display/"
+    },
+    {
+      "date": "2016-12-22",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2016/WD-css-round-display-1-20161222/",
+      "editor_draft": "https://drafts.csswg.org/css-round-display/"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "shortname": "css-highlight-api-1",
+  "title": "CSS Custom Highlight API Module Level 1",
+  "shortlink": "https://www.w3.org/TR/css-highlight-api-1/",
+  "series": "css-highlight-api-1",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2020-10-22",
+      "status": "First Public Working Draft",
+      "maturity": "FPWD",
+      "uri": "https://www.w3.org/TR/2020/WD-css-highlight-api-1-20201022/",
+      "editor_draft": "https://drafts.csswg.org/css-highlight-api-1/"
+    },
+    {
+      "date": "2020-12-08",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2020/WD-css-highlight-api-1-20201208/",
+      "editor_draft": "https://drafts.csswg.org/css-highlight-api-1/"
+    },
+    {
+      "date": "2021-12-15",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2021/WD-css-highlight-api-1-20211215/",
+      "editor_draft": "https://drafts.csswg.org/css-highlight-api-1/"
+    }
+  ]
+}

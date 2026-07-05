@@ -1,0 +1,16 @@
+{
+  "shortname": "css-backgrounds-4",
+  "title": "CSS Backgrounds Module Level 4",
+  "shortlink": "https://www.w3.org/TR/css-backgrounds-4/",
+  "series": "css-backgrounds-4",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2025-11-25",
+      "status": "First Public Working Draft",
+      "maturity": "FPWD",
+      "uri": "https://www.w3.org/TR/2025/WD-css-backgrounds-4-20251125/",
+      "editor_draft": "https://drafts.csswg.org/css-backgrounds-4/"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "shortname": "css-2020",
+  "title": "CSS Snapshot 2020",
+  "shortlink": "https://www.w3.org/TR/css-2020/",
+  "series": "css-2020",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2020-12-22",
+      "status": "Retired",
+      "maturity": "RETIRED",
+      "uri": "https://www.w3.org/TR/2020/NOTE-css-2020-20201222/",
+      "editor_draft": "https://drafts.csswg.org/css-2020/"
+    }
+  ]
+}

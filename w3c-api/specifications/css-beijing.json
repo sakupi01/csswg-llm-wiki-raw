@@ -1,0 +1,37 @@
+{
+  "shortname": "css-beijing",
+  "title": "Cascading Style Sheets (CSS) Snapshot 2007",
+  "shortlink": "https://www.w3.org/TR/css-beijing/",
+  "series": "css-beijing",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2007-10-19",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2007/WD-css-beijing-20071019",
+      "editor_draft": null
+    },
+    {
+      "date": "2008-05-16",
+      "status": "Last Call Working Draft",
+      "maturity": "LCWD",
+      "uri": "https://www.w3.org/TR/2008/WD-css-beijing-20080516/",
+      "editor_draft": null
+    },
+    {
+      "date": "2010-07-27",
+      "status": "Last Call Working Draft",
+      "maturity": "LCWD",
+      "uri": "https://www.w3.org/TR/2010/WD-css-beijing-20100727/",
+      "editor_draft": null
+    },
+    {
+      "date": "2011-05-12",
+      "status": "Retired",
+      "maturity": "RETIRED",
+      "uri": "https://www.w3.org/TR/2011/NOTE-css-beijing-20110512/",
+      "editor_draft": null
+    }
+  ]
+}

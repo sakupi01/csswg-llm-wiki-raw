@@ -1,0 +1,30 @@
+{
+  "shortname": "css3-marquee",
+  "title": "CSS Marquee Module Level 3",
+  "shortlink": "https://www.w3.org/TR/css3-marquee/",
+  "series": "css3-marquee",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2008-08-01",
+      "status": "Last Call Working Draft",
+      "maturity": "LCWD",
+      "uri": "https://www.w3.org/TR/2008/WD-css3-marquee-20080801",
+      "editor_draft": null
+    },
+    {
+      "date": "2008-12-05",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2008/CR-css3-marquee-20081205",
+      "editor_draft": null
+    },
+    {
+      "date": "2014-10-14",
+      "status": "Retired",
+      "maturity": "RETIRED",
+      "uri": "https://www.w3.org/TR/2014/NOTE-css3-marquee-20141014/",
+      "editor_draft": null
+    }
+  ]
+}

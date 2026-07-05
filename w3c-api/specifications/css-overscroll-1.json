@@ -1,0 +1,16 @@
+{
+  "shortname": "css-overscroll-1",
+  "title": "CSS Overscroll Behavior Module Level 1",
+  "shortlink": "https://www.w3.org/TR/css-overscroll-1/",
+  "series": "css-overscroll-1",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2019-06-06",
+      "status": "First Public Working Draft",
+      "maturity": "FPWD",
+      "uri": "https://www.w3.org/TR/2019/WD-css-overscroll-1-20190606/",
+      "editor_draft": "https://drafts.csswg.org/css-overscroll-1/"
+    }
+  ]
+}

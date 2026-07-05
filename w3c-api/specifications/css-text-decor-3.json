@@ -1,0 +1,170 @@
+{
+  "shortname": "css-text-decor-3",
+  "title": "CSS Text Decoration Module Level 3",
+  "shortlink": "https://www.w3.org/TR/css-text-decor-3/",
+  "series": "css-text-decor-3",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "1999-01-27",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/1999/WD-i18n-format-19990127",
+      "editor_draft": "https://drafts.csswg.org/css-text-3/"
+    },
+    {
+      "date": "1999-03-22",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/1999/WD-i18n-format-19990322",
+      "editor_draft": "https://drafts.csswg.org/css-text-3/"
+    },
+    {
+      "date": "1999-07-26",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/1999/WD-i18n-format-19990726",
+      "editor_draft": "https://drafts.csswg.org/css-text-3/"
+    },
+    {
+      "date": "1999-09-10",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/1999/WD-i18n-format-19990910/",
+      "editor_draft": "https://drafts.csswg.org/css-text-3/"
+    },
+    {
+      "date": "2001-05-17",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2001/WD-css3-text-20010517/",
+      "editor_draft": "https://drafts.csswg.org/css-text-3/"
+    },
+    {
+      "date": "2002-05-15",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2002/WD-css3-text-20020515",
+      "editor_draft": "https://drafts.csswg.org/css-text-3/"
+    },
+    {
+      "date": "2002-10-24",
+      "status": "Last Call Working Draft",
+      "maturity": "LCWD",
+      "uri": "https://www.w3.org/TR/2002/WD-css3-text-20021024",
+      "editor_draft": "https://drafts.csswg.org/css-text-3/"
+    },
+    {
+      "date": "2003-02-26",
+      "status": "Last Call Working Draft",
+      "maturity": "LCWD",
+      "uri": "https://www.w3.org/TR/2003/WD-css3-text-20030226",
+      "editor_draft": "https://drafts.csswg.org/css-text-3/"
+    },
+    {
+      "date": "2003-05-14",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2003/CR-css3-text-20030514",
+      "editor_draft": "https://drafts.csswg.org/css-text-3/"
+    },
+    {
+      "date": "2005-06-27",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2005/WD-css3-text-20050627/",
+      "editor_draft": "https://drafts.csswg.org/css-text-3/"
+    },
+    {
+      "date": "2007-03-06",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2007/WD-css3-text-20070306/",
+      "editor_draft": "https://drafts.csswg.org/css-text-3/"
+    },
+    {
+      "date": "2010-10-05",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2010/WD-css3-text-20101005/",
+      "editor_draft": "https://drafts.csswg.org/css-text-3/"
+    },
+    {
+      "date": "2011-02-15",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2011/WD-css3-text-20110215/",
+      "editor_draft": "https://drafts.csswg.org/css-text-3/"
+    },
+    {
+      "date": "2011-04-12",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2011/WD-css3-text-20110412/",
+      "editor_draft": "https://drafts.csswg.org/css-text-3/"
+    },
+    {
+      "date": "2011-09-01",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2011/WD-css3-text-20110901/",
+      "editor_draft": "https://drafts.csswg.org/css-text-3/"
+    },
+    {
+      "date": "2012-01-19",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2012/WD-css3-text-20120119/",
+      "editor_draft": "https://drafts.csswg.org/css-text-3/"
+    },
+    {
+      "date": "2012-08-14",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2012/WD-css3-text-20120814/",
+      "editor_draft": "https://drafts.csswg.org/css-text-3/"
+    },
+    {
+      "date": "2012-11-13",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2012/WD-css-text-decor-3-20121113/",
+      "editor_draft": "https://drafts.csswg.org/css-text-decor-3/"
+    },
+    {
+      "date": "2013-01-03",
+      "status": "Last Call Working Draft",
+      "maturity": "LCWD",
+      "uri": "https://www.w3.org/TR/2013/WD-css-text-decor-3-20130103/",
+      "editor_draft": "https://drafts.csswg.org/css-text-decor-3/"
+    },
+    {
+      "date": "2013-08-01",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2013/CR-css-text-decor-3-20130801/",
+      "editor_draft": "https://drafts.csswg.org/css-text-decor-3/"
+    },
+    {
+      "date": "2018-07-03",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2018/CR-css-text-decor-3-20180703/",
+      "editor_draft": "https://drafts.csswg.org/css-text-decor-3/"
+    },
+    {
+      "date": "2019-08-13",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2019/CR-css-text-decor-3-20190813/",
+      "editor_draft": "https://drafts.csswg.org/css-text-decor-3/"
+    },
+    {
+      "date": "2022-05-05",
+      "status": "Candidate Recommendation Draft",
+      "maturity": "CRD",
+      "uri": "https://www.w3.org/TR/2022/CRD-css-text-decor-3-20220505/",
+      "editor_draft": "https://drafts.csswg.org/css-text-decor-3/"
+    }
+  ]
+}

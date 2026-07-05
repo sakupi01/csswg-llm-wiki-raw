@@ -1,0 +1,23 @@
+{
+  "shortname": "css-animations-2",
+  "title": "CSS Animations Level 2",
+  "shortlink": "https://www.w3.org/TR/css-animations-2/",
+  "series": "css-animations-2",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2023-03-02",
+      "status": "First Public Working Draft",
+      "maturity": "FPWD",
+      "uri": "https://www.w3.org/TR/2023/WD-css-animations-2-20230302/",
+      "editor_draft": "https://drafts.csswg.org/css-animations-2/"
+    },
+    {
+      "date": "2023-06-02",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2023/WD-css-animations-2-20230602/",
+      "editor_draft": "https://drafts.csswg.org/css-animations-2/"
+    }
+  ]
+}

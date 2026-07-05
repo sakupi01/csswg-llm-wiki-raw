@@ -1,0 +1,86 @@
+{
+  "shortname": "css-scroll-snap-1",
+  "title": "CSS Scroll Snap Module Level 1",
+  "shortlink": "https://www.w3.org/TR/css-scroll-snap-1/",
+  "series": "css-scroll-snap-1",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2015-03-26",
+      "status": "First Public Working Draft",
+      "maturity": "FPWD",
+      "uri": "https://www.w3.org/TR/2015/WD-css-snappoints-1-20150326/",
+      "editor_draft": "https://drafts.csswg.org/css-scroll-snap-1/"
+    },
+    {
+      "date": "2016-03-29",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2016/WD-css-snappoints-1-20160329/",
+      "editor_draft": "https://drafts.csswg.org/css-scroll-snap-1/"
+    },
+    {
+      "date": "2016-06-23",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2016/WD-css-scroll-snap-1-20160623/",
+      "editor_draft": "https://drafts.csswg.org/css-scroll-snap-1/"
+    },
+    {
+      "date": "2016-10-20",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2016/CR-css-scroll-snap-1-20161020/",
+      "editor_draft": "https://drafts.csswg.org/css-scroll-snap-1/"
+    },
+    {
+      "date": "2017-02-09",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2017/CR-css-scroll-snap-1-20170209/",
+      "editor_draft": "https://drafts.csswg.org/css-scroll-snap-1/"
+    },
+    {
+      "date": "2017-08-24",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2017/CR-css-scroll-snap-1-20170824/",
+      "editor_draft": "https://drafts.csswg.org/css-scroll-snap-1/"
+    },
+    {
+      "date": "2017-12-14",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2017/CR-css-scroll-snap-1-20171214/",
+      "editor_draft": "https://drafts.csswg.org/css-scroll-snap-1/"
+    },
+    {
+      "date": "2018-08-14",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2018/CR-css-scroll-snap-1-20180814/",
+      "editor_draft": "https://drafts.csswg.org/css-scroll-snap-1/"
+    },
+    {
+      "date": "2019-01-31",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2019/CR-css-scroll-snap-1-20190131/",
+      "editor_draft": "https://drafts.csswg.org/css-scroll-snap-1/"
+    },
+    {
+      "date": "2019-03-19",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2019/CR-css-scroll-snap-1-20190319/",
+      "editor_draft": "https://drafts.csswg.org/css-scroll-snap-1/"
+    },
+    {
+      "date": "2021-03-11",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2021/CR-css-scroll-snap-1-20210311/",
+      "editor_draft": "https://drafts.csswg.org/css-scroll-snap-1/"
+    }
+  ]
+}

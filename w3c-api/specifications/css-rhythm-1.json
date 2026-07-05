@@ -1,0 +1,23 @@
+{
+  "shortname": "css-rhythm-1",
+  "title": "CSS Rhythmic Sizing Module Level 1",
+  "shortlink": "https://www.w3.org/TR/css-rhythm-1/",
+  "series": null,
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2017-03-02",
+      "status": "First Public Working Draft",
+      "maturity": "FPWD",
+      "uri": "https://www.w3.org/TR/2017/WD-css-rhythm-1-20170302/",
+      "editor_draft": "https://drafts.csswg.org/css-rhythm/"
+    },
+    {
+      "date": "2026-02-17",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2026/WD-css-rhythm-1-20260217/",
+      "editor_draft": "https://drafts.csswg.org/css-rhythm/"
+    }
+  ]
+}

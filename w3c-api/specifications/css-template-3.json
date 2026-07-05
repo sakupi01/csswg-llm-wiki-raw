@@ -1,0 +1,51 @@
+{
+  "shortname": "css-template-3",
+  "title": "CSS Template Layout Module",
+  "shortlink": "https://www.w3.org/TR/css-template-3/",
+  "series": null,
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2005-12-15",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2005/WD-css3-layout-20051215",
+      "editor_draft": "https://drafts.csswg.org/css-template/"
+    },
+    {
+      "date": "2007-08-09",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2007/WD-css3-layout-20070809",
+      "editor_draft": "https://drafts.csswg.org/css-template/"
+    },
+    {
+      "date": "2009-04-02",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2009/WD-css3-layout-20090402",
+      "editor_draft": "https://drafts.csswg.org/css-template/"
+    },
+    {
+      "date": "2010-04-29",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2010/WD-css3-layout-20100429",
+      "editor_draft": "https://drafts.csswg.org/css-template/"
+    },
+    {
+      "date": "2011-11-29",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2011/WD-css3-layout-20111129/",
+      "editor_draft": "https://drafts.csswg.org/css-template/"
+    },
+    {
+      "date": "2015-03-26",
+      "status": "Note",
+      "maturity": "NOTE",
+      "uri": "https://www.w3.org/TR/2015/NOTE-css-template-3-20150326/",
+      "editor_draft": "https://drafts.csswg.org/css-template/"
+    }
+  ]
+}

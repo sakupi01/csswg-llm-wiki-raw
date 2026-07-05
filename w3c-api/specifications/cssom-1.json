@@ -1,0 +1,37 @@
+{
+  "shortname": "cssom-1",
+  "title": "CSS Object Model (CSSOM)",
+  "shortlink": "https://www.w3.org/TR/cssom-1/",
+  "series": null,
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2011-07-12",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2011/WD-cssom-20110712/",
+      "editor_draft": "https://drafts.csswg.org/cssom/"
+    },
+    {
+      "date": "2013-12-05",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2013/WD-cssom-20131205/",
+      "editor_draft": "https://drafts.csswg.org/cssom/"
+    },
+    {
+      "date": "2016-03-17",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2016/WD-cssom-1-20160317/",
+      "editor_draft": "https://drafts.csswg.org/cssom/"
+    },
+    {
+      "date": "2021-08-26",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2021/WD-cssom-1-20210826/",
+      "editor_draft": "https://drafts.csswg.org/cssom/"
+    }
+  ]
+}

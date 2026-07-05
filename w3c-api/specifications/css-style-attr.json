@@ -1,0 +1,58 @@
+{
+  "shortname": "css-style-attr",
+  "title": "CSS Style Attributes",
+  "shortlink": "https://www.w3.org/TR/css-style-attr/",
+  "series": null,
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2000-10-25",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2000/WD-css-style-attr-20001025",
+      "editor_draft": "https://drafts.csswg.org/css-style-attr/"
+    },
+    {
+      "date": "2001-03-05",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2001/WD-css-style-attr-20010305",
+      "editor_draft": "https://drafts.csswg.org/css-style-attr/"
+    },
+    {
+      "date": "2002-05-15",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2002/WD-css-style-attr-20020515",
+      "editor_draft": "https://drafts.csswg.org/css-style-attr/"
+    },
+    {
+      "date": "2010-01-21",
+      "status": "Last Call Working Draft",
+      "maturity": "LCWD",
+      "uri": "https://www.w3.org/TR/2010/WD-css-style-attr-20100121/",
+      "editor_draft": "https://drafts.csswg.org/css-style-attr/"
+    },
+    {
+      "date": "2010-10-12",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2010/CR-css-style-attr-20101012/",
+      "editor_draft": "https://drafts.csswg.org/css-style-attr/"
+    },
+    {
+      "date": "2013-10-03",
+      "status": "Proposed Recommendation",
+      "maturity": "PR",
+      "uri": "https://www.w3.org/TR/2013/PR-css-style-attr-20131003/",
+      "editor_draft": "https://drafts.csswg.org/css-style-attr/"
+    },
+    {
+      "date": "2013-11-07",
+      "status": "Recommendation",
+      "maturity": "REC",
+      "uri": "https://www.w3.org/TR/2013/REC-css-style-attr-20131107/",
+      "editor_draft": "https://drafts.csswg.org/css-style-attr/"
+    }
+  ]
+}

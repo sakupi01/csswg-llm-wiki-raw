@@ -1,0 +1,23 @@
+{
+  "shortname": "selectors-nonelement-1",
+  "title": "Non-element Selectors Module Level 1",
+  "shortlink": "https://www.w3.org/TR/selectors-nonelement-1/",
+  "series": "selectors-nonelement-1",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2014-06-03",
+      "status": "First Public Working Draft",
+      "maturity": "FPWD",
+      "uri": "https://www.w3.org/TR/2014/WD-selectors-nonelement-1-20140603/",
+      "editor_draft": "https://drafts.csswg.org/selectors-nonelement/"
+    },
+    {
+      "date": "2019-04-02",
+      "status": "Retired",
+      "maturity": "RETIRED",
+      "uri": "https://www.w3.org/TR/2019/NOTE-selectors-nonelement-1-20190402/",
+      "editor_draft": "https://drafts.csswg.org/selectors-nonelement/"
+    }
+  ]
+}

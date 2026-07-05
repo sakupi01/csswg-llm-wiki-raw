@@ -1,0 +1,128 @@
+{
+  "shortname": "css-writing-modes-3",
+  "title": "CSS Writing Modes Level 3",
+  "shortlink": "https://www.w3.org/TR/css-writing-modes-3/",
+  "series": "css-writing-modes-3",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2010-12-02",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2010/WD-css3-writing-modes-20101202/",
+      "editor_draft": "https://drafts.csswg.org/css-writing-modes-3/"
+    },
+    {
+      "date": "2011-02-01",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2011/WD-css3-writing-modes-20110201",
+      "editor_draft": "https://drafts.csswg.org/css-writing-modes-3/"
+    },
+    {
+      "date": "2011-04-28",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2011/WD-css3-writing-modes-20110428",
+      "editor_draft": "https://drafts.csswg.org/css-writing-modes-3/"
+    },
+    {
+      "date": "2011-05-31",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2011/WD-css3-writing-modes-20110531/",
+      "editor_draft": "https://drafts.csswg.org/css-writing-modes-3/"
+    },
+    {
+      "date": "2011-09-01",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2011/WD-css3-writing-modes-20110901/",
+      "editor_draft": "https://drafts.csswg.org/css-writing-modes-3/"
+    },
+    {
+      "date": "2012-05-01",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2012/WD-css3-writing-modes-20120501/",
+      "editor_draft": "https://drafts.csswg.org/css-writing-modes-3/"
+    },
+    {
+      "date": "2012-11-15",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2012/WD-css3-writing-modes-20121115/",
+      "editor_draft": "https://drafts.csswg.org/css-writing-modes-3/"
+    },
+    {
+      "date": "2013-10-24",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2013/WD-css-writing-modes-3-20131024/",
+      "editor_draft": "https://drafts.csswg.org/css-writing-modes-3/"
+    },
+    {
+      "date": "2013-11-26",
+      "status": "Last Call Working Draft",
+      "maturity": "LCWD",
+      "uri": "https://www.w3.org/TR/2013/WD-css-writing-modes-3-20131126/",
+      "editor_draft": "https://drafts.csswg.org/css-writing-modes-3/"
+    },
+    {
+      "date": "2014-03-20",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2014/CR-css-writing-modes-3-20140320/",
+      "editor_draft": "https://drafts.csswg.org/css-writing-modes-3/"
+    },
+    {
+      "date": "2015-12-15",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2015/CR-css-writing-modes-3-20151215/",
+      "editor_draft": "https://drafts.csswg.org/css-writing-modes-3/"
+    },
+    {
+      "date": "2017-12-07",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2017/CR-css-writing-modes-3-20171207/",
+      "editor_draft": "https://drafts.csswg.org/css-writing-modes-3/"
+    },
+    {
+      "date": "2018-05-24",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2018/CR-css-writing-modes-3-20180524/",
+      "editor_draft": "https://drafts.csswg.org/css-writing-modes-3/"
+    },
+    {
+      "date": "2019-07-30",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2019/CR-css-writing-modes-3-20190730/",
+      "editor_draft": "https://drafts.csswg.org/css-writing-modes-3/"
+    },
+    {
+      "date": "2019-09-03",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2019/CR-css-writing-modes-3-20190903/",
+      "editor_draft": "https://drafts.csswg.org/css-writing-modes-3/"
+    },
+    {
+      "date": "2019-10-24",
+      "status": "Proposed Recommendation",
+      "maturity": "PR",
+      "uri": "https://www.w3.org/TR/2019/PR-css-writing-modes-3-20191024/",
+      "editor_draft": "https://drafts.csswg.org/css-writing-modes-3/"
+    },
+    {
+      "date": "2019-12-10",
+      "status": "Recommendation",
+      "maturity": "REC",
+      "uri": "https://www.w3.org/TR/2019/REC-css-writing-modes-3-20191210/",
+      "editor_draft": "https://drafts.csswg.org/css-writing-modes-3/"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "shortname": "worklets-1",
+  "title": "Worklets Level 1",
+  "shortlink": "https://www.w3.org/TR/worklets-1/",
+  "series": "worklets-1",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2016-06-07",
+      "status": "First Public Working Draft",
+      "maturity": "FPWD",
+      "uri": "https://www.w3.org/TR/2016/WD-worklets-1-20160607/",
+      "editor_draft": "https://drafts.css-houdini.org/worklets/"
+    },
+    {
+      "date": "2020-09-08",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2020/WD-worklets-1-20200908/",
+      "editor_draft": "https://drafts.css-houdini.org/worklets/"
+    },
+    {
+      "date": "2021-07-29",
+      "status": "Retired",
+      "maturity": "RETIRED",
+      "uri": "https://www.w3.org/TR/2021/NOTE-worklets-1-20210729/",
+      "editor_draft": "https://drafts.css-houdini.org/worklets/"
+    }
+  ]
+}

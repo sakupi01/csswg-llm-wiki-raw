@@ -1,0 +1,254 @@
+{
+  "shortname": "css-text-3",
+  "title": "CSS Text Module Level 3",
+  "shortlink": "https://www.w3.org/TR/css-text-3/",
+  "series": "css-text-3",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "1999-01-27",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/1999/WD-i18n-format-19990127",
+      "editor_draft": "https://drafts.csswg.org/css-text-3/"
+    },
+    {
+      "date": "1999-03-22",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/1999/WD-i18n-format-19990322",
+      "editor_draft": "https://drafts.csswg.org/css-text-3/"
+    },
+    {
+      "date": "1999-07-26",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/1999/WD-i18n-format-19990726",
+      "editor_draft": "https://drafts.csswg.org/css-text-3/"
+    },
+    {
+      "date": "1999-09-10",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/1999/WD-i18n-format-19990910/",
+      "editor_draft": "https://drafts.csswg.org/css-text-3/"
+    },
+    {
+      "date": "2001-05-17",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2001/WD-css3-text-20010517/",
+      "editor_draft": "https://drafts.csswg.org/css-text-3/"
+    },
+    {
+      "date": "2002-05-15",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2002/WD-css3-text-20020515",
+      "editor_draft": "https://drafts.csswg.org/css-text-3/"
+    },
+    {
+      "date": "2002-10-24",
+      "status": "Last Call Working Draft",
+      "maturity": "LCWD",
+      "uri": "https://www.w3.org/TR/2002/WD-css3-text-20021024",
+      "editor_draft": "https://drafts.csswg.org/css-text-3/"
+    },
+    {
+      "date": "2003-02-26",
+      "status": "Last Call Working Draft",
+      "maturity": "LCWD",
+      "uri": "https://www.w3.org/TR/2003/WD-css3-text-20030226",
+      "editor_draft": "https://drafts.csswg.org/css-text-3/"
+    },
+    {
+      "date": "2003-05-14",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2003/CR-css3-text-20030514",
+      "editor_draft": "https://drafts.csswg.org/css-text-3/"
+    },
+    {
+      "date": "2005-06-27",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2005/WD-css3-text-20050627/",
+      "editor_draft": "https://drafts.csswg.org/css-text-3/"
+    },
+    {
+      "date": "2007-03-06",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2007/WD-css3-text-20070306/",
+      "editor_draft": "https://drafts.csswg.org/css-text-3/"
+    },
+    {
+      "date": "2010-10-05",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2010/WD-css3-text-20101005/",
+      "editor_draft": "https://drafts.csswg.org/css-text-3/"
+    },
+    {
+      "date": "2011-02-15",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2011/WD-css3-text-20110215/",
+      "editor_draft": "https://drafts.csswg.org/css-text-3/"
+    },
+    {
+      "date": "2011-04-12",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2011/WD-css3-text-20110412/",
+      "editor_draft": "https://drafts.csswg.org/css-text-3/"
+    },
+    {
+      "date": "2011-09-01",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2011/WD-css3-text-20110901/",
+      "editor_draft": "https://drafts.csswg.org/css-text-3/"
+    },
+    {
+      "date": "2012-01-19",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2012/WD-css3-text-20120119/",
+      "editor_draft": "https://drafts.csswg.org/css-text-3/"
+    },
+    {
+      "date": "2012-08-14",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2012/WD-css3-text-20120814/",
+      "editor_draft": "https://drafts.csswg.org/css-text-3/"
+    },
+    {
+      "date": "2012-11-13",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2012/WD-css3-text-20121113/",
+      "editor_draft": "https://drafts.csswg.org/css-text-3/"
+    },
+    {
+      "date": "2013-10-10",
+      "status": "Last Call Working Draft",
+      "maturity": "LCWD",
+      "uri": "https://www.w3.org/TR/2013/WD-css-text-3-20131010/",
+      "editor_draft": "https://drafts.csswg.org/css-text-3/"
+    },
+    {
+      "date": "2017-08-22",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2017/WD-css-text-3-20170822/",
+      "editor_draft": "https://drafts.csswg.org/css-text-3/"
+    },
+    {
+      "date": "2018-09-20",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2018/WD-css-text-3-20180920/",
+      "editor_draft": "https://drafts.csswg.org/css-text-3/"
+    },
+    {
+      "date": "2018-12-06",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2018/WD-css-text-3-20181206/",
+      "editor_draft": "https://drafts.csswg.org/css-text-3/"
+    },
+    {
+      "date": "2018-12-12",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2018/WD-css-text-3-20181212/",
+      "editor_draft": "https://drafts.csswg.org/css-text-3/"
+    },
+    {
+      "date": "2019-11-13",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2019/WD-css-text-3-20191113/",
+      "editor_draft": "https://drafts.csswg.org/css-text-3/"
+    },
+    {
+      "date": "2020-04-29",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2020/WD-css-text-3-20200429/",
+      "editor_draft": "https://drafts.csswg.org/css-text-3/"
+    },
+    {
+      "date": "2020-11-19",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2020/WD-css-text-3-20201119/",
+      "editor_draft": "https://drafts.csswg.org/css-text-3/"
+    },
+    {
+      "date": "2020-12-22",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2020/CR-css-text-3-20201222/",
+      "editor_draft": "https://drafts.csswg.org/css-text-3/"
+    },
+    {
+      "date": "2021-03-16",
+      "status": "Candidate Recommendation Draft",
+      "maturity": "CRD",
+      "uri": "https://www.w3.org/TR/2021/CRD-css-text-3-20210316/",
+      "editor_draft": "https://drafts.csswg.org/css-text-3/"
+    },
+    {
+      "date": "2021-04-22",
+      "status": "Candidate Recommendation Draft",
+      "maturity": "CRD",
+      "uri": "https://www.w3.org/TR/2021/CRD-css-text-3-20210422/",
+      "editor_draft": "https://drafts.csswg.org/css-text-3/"
+    },
+    {
+      "date": "2022-05-05",
+      "status": "Candidate Recommendation Draft",
+      "maturity": "CRD",
+      "uri": "https://www.w3.org/TR/2022/CRD-css-text-3-20220505/",
+      "editor_draft": "https://drafts.csswg.org/css-text-3/"
+    },
+    {
+      "date": "2023-01-27",
+      "status": "Candidate Recommendation Draft",
+      "maturity": "CRD",
+      "uri": "https://www.w3.org/TR/2023/CRD-css-text-3-20230127/",
+      "editor_draft": "https://drafts.csswg.org/css-text-3/"
+    },
+    {
+      "date": "2023-02-13",
+      "status": "Candidate Recommendation Draft",
+      "maturity": "CRD",
+      "uri": "https://www.w3.org/TR/2023/CRD-css-text-3-20230213/",
+      "editor_draft": "https://drafts.csswg.org/css-text-3/"
+    },
+    {
+      "date": "2023-09-03",
+      "status": "Candidate Recommendation Draft",
+      "maturity": "CRD",
+      "uri": "https://www.w3.org/TR/2023/CRD-css-text-3-20230903/",
+      "editor_draft": "https://drafts.csswg.org/css-text-3/"
+    },
+    {
+      "date": "2024-09-30",
+      "status": "Candidate Recommendation Draft",
+      "maturity": "CRD",
+      "uri": "https://www.w3.org/TR/2024/CRD-css-text-3-20240930/",
+      "editor_draft": "https://drafts.csswg.org/css-text-3/"
+    },
+    {
+      "date": "2026-06-08",
+      "status": "Candidate Recommendation Draft",
+      "maturity": "CRD",
+      "uri": "https://www.w3.org/TR/2026/CRD-css-text-3-20260608/",
+      "editor_draft": "https://drafts.csswg.org/css-text-3/"
+    }
+  ]
+}

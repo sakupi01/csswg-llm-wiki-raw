@@ -1,0 +1,23 @@
+{
+  "shortname": "css-borders-4",
+  "title": "CSS Borders and Box Decorations Module Level 4",
+  "shortlink": "https://www.w3.org/TR/css-borders-4/",
+  "series": "css-borders-4",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2025-07-22",
+      "status": "First Public Working Draft",
+      "maturity": "FPWD",
+      "uri": "https://www.w3.org/TR/2025/WD-css-borders-4-20250722/",
+      "editor_draft": "https://drafts.csswg.org/css-borders-4/"
+    },
+    {
+      "date": "2025-12-16",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2025/WD-css-borders-4-20251216/",
+      "editor_draft": "https://drafts.csswg.org/css-borders-4/"
+    }
+  ]
+}

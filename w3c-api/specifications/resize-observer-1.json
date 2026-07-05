@@ -1,0 +1,16 @@
+{
+  "shortname": "resize-observer-1",
+  "title": "Resize Observer",
+  "shortlink": "https://www.w3.org/TR/resize-observer-1/",
+  "series": null,
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2020-02-11",
+      "status": "First Public Working Draft",
+      "maturity": "FPWD",
+      "uri": "https://www.w3.org/TR/2020/WD-resize-observer-1-20200211/",
+      "editor_draft": "https://drafts.csswg.org/resize-observer/"
+    }
+  ]
+}

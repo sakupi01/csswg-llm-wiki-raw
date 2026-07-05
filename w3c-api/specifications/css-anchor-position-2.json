@@ -1,0 +1,16 @@
+{
+  "shortname": "css-anchor-position-2",
+  "title": "CSS Anchor Positioning Module Level 2",
+  "shortlink": "https://www.w3.org/TR/css-anchor-position-2/",
+  "series": "css-anchor-position-2",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2025-10-21",
+      "status": "First Public Working Draft",
+      "maturity": "FPWD",
+      "uri": "https://www.w3.org/TR/2025/WD-css-anchor-position-2-20251021/",
+      "editor_draft": "https://drafts.csswg.org/css-anchor-position-2/"
+    }
+  ]
+}

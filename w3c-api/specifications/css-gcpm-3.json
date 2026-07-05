@@ -1,0 +1,65 @@
+{
+  "shortname": "css-gcpm-3",
+  "title": "CSS Generated Content for Paged Media Module",
+  "shortlink": "https://www.w3.org/TR/css-gcpm-3/",
+  "series": null,
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2006-06-12",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2006/WD-css3-gcpm-20060612",
+      "editor_draft": "https://drafts.csswg.org/css-gcpm/"
+    },
+    {
+      "date": "2006-09-19",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2006/WD-css3-gcpm-20060919",
+      "editor_draft": "https://drafts.csswg.org/css-gcpm/"
+    },
+    {
+      "date": "2007-02-05",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2007/WD-css3-gcpm-20070205",
+      "editor_draft": "https://drafts.csswg.org/css-gcpm/"
+    },
+    {
+      "date": "2007-05-04",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2007/WD-css3-gcpm-20070504",
+      "editor_draft": "https://drafts.csswg.org/css-gcpm/"
+    },
+    {
+      "date": "2010-06-08",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2010/WD-css3-gcpm-20100608",
+      "editor_draft": "https://drafts.csswg.org/css-gcpm/"
+    },
+    {
+      "date": "2011-11-29",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2011/WD-css3-gcpm-20111129/",
+      "editor_draft": "https://drafts.csswg.org/css-gcpm/"
+    },
+    {
+      "date": "2014-05-13",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2014/WD-css-gcpm-3-20140513/",
+      "editor_draft": "https://drafts.csswg.org/css-gcpm/"
+    },
+    {
+      "date": "2024-01-25",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2024/WD-css-gcpm-3-20240125/",
+      "editor_draft": "https://drafts.csswg.org/css-gcpm/"
+    }
+  ]
+}

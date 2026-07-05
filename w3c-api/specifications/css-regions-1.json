@@ -1,0 +1,58 @@
+{
+  "shortname": "css-regions-1",
+  "title": "CSS Regions Module Level 1",
+  "shortlink": "https://www.w3.org/TR/css-regions-1/",
+  "series": "css-regions-1",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2011-06-09",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2011/WD-css3-regions-20110609/",
+      "editor_draft": "https://drafts.csswg.org/css-regions/"
+    },
+    {
+      "date": "2011-11-29",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2011/WD-css3-regions-20111129/",
+      "editor_draft": "https://drafts.csswg.org/css-regions/"
+    },
+    {
+      "date": "2012-05-03",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2012/WD-css3-regions-20120503/",
+      "editor_draft": "https://drafts.csswg.org/css-regions/"
+    },
+    {
+      "date": "2012-08-23",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2012/WD-css3-regions-20120823/",
+      "editor_draft": "https://drafts.csswg.org/css-regions/"
+    },
+    {
+      "date": "2013-05-28",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2013/WD-css3-regions-20130528/",
+      "editor_draft": "https://drafts.csswg.org/css-regions/"
+    },
+    {
+      "date": "2014-02-18",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2014/WD-css3-regions-20140218/",
+      "editor_draft": "https://drafts.csswg.org/css-regions/"
+    },
+    {
+      "date": "2014-10-09",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2014/WD-css-regions-1-20141009/",
+      "editor_draft": "https://drafts.csswg.org/css-regions/"
+    }
+  ]
+}

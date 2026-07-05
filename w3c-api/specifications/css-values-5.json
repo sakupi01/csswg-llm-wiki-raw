@@ -1,0 +1,37 @@
+{
+  "shortname": "css-values-5",
+  "title": "CSS Values and Units Module Level 5",
+  "shortlink": "https://www.w3.org/TR/css-values-5/",
+  "series": "css-values-5",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2024-09-03",
+      "status": "First Public Working Draft",
+      "maturity": "FPWD",
+      "uri": "https://www.w3.org/TR/2024/WD-css-values-5-20240903/",
+      "editor_draft": "https://drafts.csswg.org/css-values-5/"
+    },
+    {
+      "date": "2024-09-13",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2024/WD-css-values-5-20240913/",
+      "editor_draft": "https://drafts.csswg.org/css-values-5/"
+    },
+    {
+      "date": "2024-09-17",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2024/WD-css-values-5-20240917/",
+      "editor_draft": "https://drafts.csswg.org/css-values-5/"
+    },
+    {
+      "date": "2024-11-11",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2024/WD-css-values-5-20241111/",
+      "editor_draft": "https://drafts.csswg.org/css-values-5/"
+    }
+  ]
+}

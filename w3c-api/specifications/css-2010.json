@@ -1,0 +1,23 @@
+{
+  "shortname": "css-2010",
+  "title": "Cascading Style Sheets (CSS) Snapshot 2010",
+  "shortlink": "https://www.w3.org/TR/css-2010/",
+  "series": "css-2010",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2010-12-02",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2010/WD-css-2010-20101202/",
+      "editor_draft": null
+    },
+    {
+      "date": "2011-05-12",
+      "status": "Retired",
+      "maturity": "RETIRED",
+      "uri": "https://www.w3.org/TR/2011/NOTE-css-2010-20110512/",
+      "editor_draft": null
+    }
+  ]
+}

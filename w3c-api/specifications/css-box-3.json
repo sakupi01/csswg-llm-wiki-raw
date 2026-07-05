@@ -1,0 +1,100 @@
+{
+  "shortname": "css-box-3",
+  "title": "CSS Box Model Module Level 3",
+  "shortlink": "https://www.w3.org/TR/css-box-3/",
+  "series": "css-box-3",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2001-07-26",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2001/WD-css3-box-20010726/",
+      "editor_draft": "https://drafts.csswg.org/css-box-3/"
+    },
+    {
+      "date": "2002-10-24",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2002/WD-css3-box-20021024",
+      "editor_draft": "https://drafts.csswg.org/css-box-3/"
+    },
+    {
+      "date": "2007-08-09",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2007/WD-css3-box-20070809/",
+      "editor_draft": "https://drafts.csswg.org/css-box-3/"
+    },
+    {
+      "date": "2018-07-31",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2018/WD-css3-box-20180731/",
+      "editor_draft": "https://drafts.csswg.org/css-box-3/"
+    },
+    {
+      "date": "2018-08-09",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2018/WD-css-box-3-20180809/",
+      "editor_draft": "https://drafts.csswg.org/css-box-3/"
+    },
+    {
+      "date": "2018-12-18",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2018/WD-css-box-3-20181218/",
+      "editor_draft": "https://drafts.csswg.org/css-box-3/"
+    },
+    {
+      "date": "2020-04-21",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2020/WD-css-box-3-20200421/",
+      "editor_draft": "https://drafts.csswg.org/css-box-3/"
+    },
+    {
+      "date": "2020-10-28",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2020/WD-css-box-3-20201028/",
+      "editor_draft": "https://drafts.csswg.org/css-box-3/"
+    },
+    {
+      "date": "2020-12-22",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2020/CR-css-box-3-20201222/",
+      "editor_draft": "https://drafts.csswg.org/css-box-3/"
+    },
+    {
+      "date": "2022-11-03",
+      "status": "Candidate Recommendation Draft",
+      "maturity": "CRD",
+      "uri": "https://www.w3.org/TR/2022/CRD-css-box-3-20221103/",
+      "editor_draft": "https://drafts.csswg.org/css-box-3/"
+    },
+    {
+      "date": "2023-02-16",
+      "status": "Proposed Recommendation",
+      "maturity": "PR",
+      "uri": "https://www.w3.org/TR/2023/PR-css-box-3-20230216/",
+      "editor_draft": "https://drafts.csswg.org/css-box-3/"
+    },
+    {
+      "date": "2023-04-06",
+      "status": "Recommendation",
+      "maturity": "REC",
+      "uri": "https://www.w3.org/TR/2023/REC-css-box-3-20230406/",
+      "editor_draft": "https://drafts.csswg.org/css-box-3/"
+    },
+    {
+      "date": "2024-04-11",
+      "status": "Recommendation",
+      "maturity": "REC",
+      "uri": "https://www.w3.org/TR/2024/REC-css-box-3-20240411/",
+      "editor_draft": "https://drafts.csswg.org/css-box-3/"
+    }
+  ]
+}

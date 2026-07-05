@@ -1,0 +1,114 @@
+{
+  "shortname": "css-values-3",
+  "title": "CSS Values and Units Module Level 3",
+  "shortlink": "https://www.w3.org/TR/css-values-3/",
+  "series": "css-values-3",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2001-07-13",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2001/WD-css3-values-20010713/",
+      "editor_draft": "https://drafts.csswg.org/css-values-3/"
+    },
+    {
+      "date": "2005-07-26",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2005/WD-css3-values-20050726",
+      "editor_draft": "https://drafts.csswg.org/css-values-3/"
+    },
+    {
+      "date": "2006-09-19",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2006/WD-css3-values-20060919",
+      "editor_draft": "https://drafts.csswg.org/css-values-3/"
+    },
+    {
+      "date": "2011-09-06",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2011/WD-css3-values-20110906/",
+      "editor_draft": "https://drafts.csswg.org/css-values-3/"
+    },
+    {
+      "date": "2012-03-08",
+      "status": "Last Call Working Draft",
+      "maturity": "LCWD",
+      "uri": "https://www.w3.org/TR/2012/WD-css3-values-20120308/",
+      "editor_draft": "https://drafts.csswg.org/css-values-3/"
+    },
+    {
+      "date": "2012-08-28",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2012/CR-css3-values-20120828/",
+      "editor_draft": "https://drafts.csswg.org/css-values-3/"
+    },
+    {
+      "date": "2013-04-04",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2013/CR-css3-values-20130404/",
+      "editor_draft": "https://drafts.csswg.org/css-values-3/"
+    },
+    {
+      "date": "2013-07-30",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2013/CR-css3-values-20130730/",
+      "editor_draft": "https://drafts.csswg.org/css-values-3/"
+    },
+    {
+      "date": "2015-06-11",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2015/CR-css-values-3-20150611/",
+      "editor_draft": "https://drafts.csswg.org/css-values-3/"
+    },
+    {
+      "date": "2016-09-29",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2016/CR-css-values-3-20160929/",
+      "editor_draft": "https://drafts.csswg.org/css-values-3/"
+    },
+    {
+      "date": "2018-08-14",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2018/CR-css-values-3-20180814/",
+      "editor_draft": "https://drafts.csswg.org/css-values-3/"
+    },
+    {
+      "date": "2019-01-31",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2019/CR-css-values-3-20190131/",
+      "editor_draft": "https://drafts.csswg.org/css-values-3/"
+    },
+    {
+      "date": "2019-06-06",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2019/CR-css-values-3-20190606/",
+      "editor_draft": "https://drafts.csswg.org/css-values-3/"
+    },
+    {
+      "date": "2022-12-01",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2022/CR-css-values-3-20221201/",
+      "editor_draft": "https://drafts.csswg.org/css-values-3/"
+    },
+    {
+      "date": "2024-03-22",
+      "status": "Candidate Recommendation Draft",
+      "maturity": "CRD",
+      "uri": "https://www.w3.org/TR/2024/CRD-css-values-3-20240322/",
+      "editor_draft": "https://drafts.csswg.org/css-values-3/"
+    }
+  ]
+}

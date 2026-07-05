@@ -1,0 +1,16 @@
+{
+  "shortname": "css-mixins-1",
+  "title": "CSS Functions and Mixins Module",
+  "shortlink": "https://www.w3.org/TR/css-mixins-1/",
+  "series": null,
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2025-05-15",
+      "status": "First Public Working Draft",
+      "maturity": "FPWD",
+      "uri": "https://www.w3.org/TR/2025/WD-css-mixins-1-20250515/",
+      "editor_draft": "https://drafts.csswg.org/css-mixins/"
+    }
+  ]
+}

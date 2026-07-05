@@ -1,0 +1,44 @@
+{
+  "shortname": "css-fonts-5",
+  "title": "CSS Fonts Module Level 5",
+  "shortlink": "https://www.w3.org/TR/css-fonts-5/",
+  "series": "css-fonts-5",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2021-06-29",
+      "status": "First Public Working Draft",
+      "maturity": "FPWD",
+      "uri": "https://www.w3.org/TR/2021/WD-css-fonts-5-20210629/",
+      "editor_draft": "https://drafts.csswg.org/css-fonts-5/"
+    },
+    {
+      "date": "2021-07-29",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2021/WD-css-fonts-5-20210729/",
+      "editor_draft": "https://drafts.csswg.org/css-fonts-5/"
+    },
+    {
+      "date": "2021-12-21",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2021/WD-css-fonts-5-20211221/",
+      "editor_draft": "https://drafts.csswg.org/css-fonts-5/"
+    },
+    {
+      "date": "2024-02-06",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2024/WD-css-fonts-5-20240206/",
+      "editor_draft": "https://drafts.csswg.org/css-fonts-5/"
+    },
+    {
+      "date": "2026-03-03",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2026/WD-css-fonts-5-20260303/",
+      "editor_draft": "https://drafts.csswg.org/css-fonts-5/"
+    }
+  ]
+}

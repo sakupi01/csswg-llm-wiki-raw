@@ -1,0 +1,79 @@
+{
+  "shortname": "css-fonts-4",
+  "title": "CSS Fonts Module Level 4",
+  "shortlink": "https://www.w3.org/TR/css-fonts-4/",
+  "series": "css-fonts-4",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2017-07-11",
+      "status": "First Public Working Draft",
+      "maturity": "FPWD",
+      "uri": "https://www.w3.org/TR/2017/WD-css-fonts-4-20170711/",
+      "editor_draft": "https://drafts.csswg.org/css-fonts-4/"
+    },
+    {
+      "date": "2018-04-10",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2018/WD-css-fonts-4-20180410/",
+      "editor_draft": "https://drafts.csswg.org/css-fonts-4/"
+    },
+    {
+      "date": "2018-09-20",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2018/WD-css-fonts-4-20180920/",
+      "editor_draft": "https://drafts.csswg.org/css-fonts-4/"
+    },
+    {
+      "date": "2019-11-13",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2019/WD-css-fonts-4-20191113/",
+      "editor_draft": "https://drafts.csswg.org/css-fonts-4/"
+    },
+    {
+      "date": "2020-11-17",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2020/WD-css-fonts-4-20201117/",
+      "editor_draft": "https://drafts.csswg.org/css-fonts-4/"
+    },
+    {
+      "date": "2021-07-29",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2021/WD-css-fonts-4-20210729/",
+      "editor_draft": "https://drafts.csswg.org/css-fonts-4/"
+    },
+    {
+      "date": "2021-12-21",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2021/WD-css-fonts-4-20211221/",
+      "editor_draft": "https://drafts.csswg.org/css-fonts-4/"
+    },
+    {
+      "date": "2024-02-01",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2024/WD-css-fonts-4-20240201/",
+      "editor_draft": "https://drafts.csswg.org/css-fonts-4/"
+    },
+    {
+      "date": "2026-03-03",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2026/WD-css-fonts-4-20260303/",
+      "editor_draft": "https://drafts.csswg.org/css-fonts-4/"
+    },
+    {
+      "date": "2026-04-22",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2026/WD-css-fonts-4-20260422/",
+      "editor_draft": "https://drafts.csswg.org/css-fonts-4/"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "shortname": "CSS1",
+  "title": "Cascading Style Sheets, level 1",
+  "shortlink": "https://www.w3.org/TR/CSS1/",
+  "series": "CSS1",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "1995-11-17",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/pub/WWW/TR/WD-css1-951117.html",
+      "editor_draft": null
+    },
+    {
+      "date": "1995-11-23",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/pub/WWW/TR/WD-css1-951123.html",
+      "editor_draft": null
+    },
+    {
+      "date": "1995-12-09",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/pub/WWW/TR/WD-css1-951209.html",
+      "editor_draft": null
+    },
+    {
+      "date": "1995-12-22",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/pub/WWW/TR/WD-css1-951222.html",
+      "editor_draft": null
+    },
+    {
+      "date": "1996-02-20",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/pub/WWW/TR/WD-css1-960220.html",
+      "editor_draft": null
+    },
+    {
+      "date": "1996-04-18",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/pub/WWW/TR/WD-css1-960418.html",
+      "editor_draft": null
+    },
+    {
+      "date": "1996-05-05",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/pub/WWW/TR/WD-css1-960505.html",
+      "editor_draft": null
+    },
+    {
+      "date": "1996-07-26",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/pub/WWW/TR/WD-css1-960726.html",
+      "editor_draft": null
+    },
+    {
+      "date": "1996-09-11",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/pub/WWW/TR/WD-css1-960911.html",
+      "editor_draft": null
+    },
+    {
+      "date": "1996-11-12",
+      "status": "Proposed Recommendation",
+      "maturity": "PR",
+      "uri": "https://www.w3.org/pub/WWW/TR/PR-CSS1",
+      "editor_draft": null
+    },
+    {
+      "date": "1996-12-17",
+      "status": "Recommendation",
+      "maturity": "REC",
+      "uri": "https://www.w3.org/TR/REC-CSS1-961217",
+      "editor_draft": null
+    },
+    {
+      "date": "1999-01-11",
+      "status": "Recommendation",
+      "maturity": "REC",
+      "uri": "https://www.w3.org/TR/1999/REC-CSS1-19990111",
+      "editor_draft": null
+    },
+    {
+      "date": "2008-04-11",
+      "status": "Recommendation",
+      "maturity": "REC",
+      "uri": "https://www.w3.org/TR/2008/REC-CSS1-20080411/",
+      "editor_draft": null
+    },
+    {
+      "date": "2018-09-13",
+      "status": "Retired",
+      "maturity": "RETIRED",
+      "uri": "https://www.w3.org/TR/2018/SPSD-CSS1-20180913/",
+      "editor_draft": null
+    }
+  ]
+}

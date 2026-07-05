@@ -1,0 +1,23 @@
+{
+  "shortname": "css-view-transitions-2",
+  "title": "CSS View Transitions Module Level 2",
+  "shortlink": "https://www.w3.org/TR/css-view-transitions-2/",
+  "series": "css-view-transitions-2",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2024-05-16",
+      "status": "First Public Working Draft",
+      "maturity": "FPWD",
+      "uri": "https://www.w3.org/TR/2024/WD-css-view-transitions-2-20240516/",
+      "editor_draft": "https://drafts.csswg.org/css-view-transitions-2/"
+    },
+    {
+      "date": "2024-11-13",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2024/WD-css-view-transitions-2-20241113/",
+      "editor_draft": "https://drafts.csswg.org/css-view-transitions-2/"
+    }
+  ]
+}

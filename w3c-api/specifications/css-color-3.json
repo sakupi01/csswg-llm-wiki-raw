@@ -1,0 +1,107 @@
+{
+  "shortname": "css-color-3",
+  "title": "CSS Color Module Level 3",
+  "shortlink": "https://www.w3.org/TR/css-color-3/",
+  "series": "css-color-3",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "1999-06-23",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/1999/06/WD-css3-iccprof-19990623",
+      "editor_draft": "https://drafts.csswg.org/css-color-3/"
+    },
+    {
+      "date": "2001-03-05",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2001/WD-css3-color-20010305",
+      "editor_draft": "https://drafts.csswg.org/css-color-3/"
+    },
+    {
+      "date": "2002-02-19",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2002/WD-css3-color-20020219/",
+      "editor_draft": "https://drafts.csswg.org/css-color-3/"
+    },
+    {
+      "date": "2002-04-18",
+      "status": "Last Call Working Draft",
+      "maturity": "LCWD",
+      "uri": "https://www.w3.org/TR/2002/WD-css3-color-20020418",
+      "editor_draft": "https://drafts.csswg.org/css-color-3/"
+    },
+    {
+      "date": "2003-02-14",
+      "status": "Last Call Working Draft",
+      "maturity": "LCWD",
+      "uri": "https://www.w3.org/TR/2003/WD-css3-color-20030214",
+      "editor_draft": "https://drafts.csswg.org/css-color-3/"
+    },
+    {
+      "date": "2003-05-14",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2003/CR-css3-color-20030514",
+      "editor_draft": "https://drafts.csswg.org/css-color-3/"
+    },
+    {
+      "date": "2008-07-21",
+      "status": "Last Call Working Draft",
+      "maturity": "LCWD",
+      "uri": "https://www.w3.org/TR/2008/WD-css3-color-20080721",
+      "editor_draft": "https://drafts.csswg.org/css-color-3/"
+    },
+    {
+      "date": "2010-10-28",
+      "status": "Proposed Recommendation",
+      "maturity": "PR",
+      "uri": "https://www.w3.org/TR/2010/PR-css3-color-20101028",
+      "editor_draft": "https://drafts.csswg.org/css-color-3/"
+    },
+    {
+      "date": "2011-06-07",
+      "status": "Recommendation",
+      "maturity": "REC",
+      "uri": "https://www.w3.org/TR/2011/REC-css3-color-20110607/",
+      "editor_draft": "https://drafts.csswg.org/css-color-3/"
+    },
+    {
+      "date": "2017-12-05",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2017/CR-css-color-3-20171205/",
+      "editor_draft": "https://drafts.csswg.org/css-color-3/"
+    },
+    {
+      "date": "2018-03-15",
+      "status": "Proposed Recommendation",
+      "maturity": "PR",
+      "uri": "https://www.w3.org/TR/2018/PR-css-color-3-20180315/",
+      "editor_draft": "https://drafts.csswg.org/css-color-3/"
+    },
+    {
+      "date": "2018-06-19",
+      "status": "Recommendation",
+      "maturity": "REC",
+      "uri": "https://www.w3.org/TR/2018/REC-css-color-3-20180619/",
+      "editor_draft": "https://drafts.csswg.org/css-color-3/"
+    },
+    {
+      "date": "2021-08-05",
+      "status": "Recommendation",
+      "maturity": "REC",
+      "uri": "https://www.w3.org/TR/2021/REC-css-color-3-20210805/",
+      "editor_draft": "https://drafts.csswg.org/css-color-3/"
+    },
+    {
+      "date": "2022-01-18",
+      "status": "Recommendation",
+      "maturity": "REC",
+      "uri": "https://www.w3.org/TR/2022/REC-css-color-3-20220118/",
+      "editor_draft": "https://drafts.csswg.org/css-color-3/"
+    }
+  ]
+}

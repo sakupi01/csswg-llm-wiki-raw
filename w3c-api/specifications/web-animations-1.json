@@ -1,0 +1,65 @@
+{
+  "shortname": "web-animations-1",
+  "title": "Web Animations",
+  "shortlink": "https://www.w3.org/TR/web-animations-1/",
+  "series": null,
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2013-06-25",
+      "status": "First Public Working Draft",
+      "maturity": "FPWD",
+      "uri": "https://www.w3.org/TR/2013/WD-web-animations-20130625/",
+      "editor_draft": "https://drafts.csswg.org/web-animations-1/"
+    },
+    {
+      "date": "2014-06-05",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2014/WD-web-animations-20140605/",
+      "editor_draft": "https://drafts.csswg.org/web-animations-1/"
+    },
+    {
+      "date": "2015-07-07",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2015/WD-web-animations-1-20150707/",
+      "editor_draft": "https://drafts.csswg.org/web-animations-1/"
+    },
+    {
+      "date": "2016-09-13",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2016/WD-web-animations-1-20160913/",
+      "editor_draft": "https://drafts.csswg.org/web-animations-1/"
+    },
+    {
+      "date": "2018-10-11",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2018/WD-web-animations-1-20181011/",
+      "editor_draft": "https://drafts.csswg.org/web-animations-1/"
+    },
+    {
+      "date": "2021-05-18",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2021/WD-web-animations-1-20210518/",
+      "editor_draft": "https://drafts.csswg.org/web-animations-1/"
+    },
+    {
+      "date": "2022-09-08",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2022/WD-web-animations-1-20220908/",
+      "editor_draft": "https://drafts.csswg.org/web-animations-1/"
+    },
+    {
+      "date": "2023-06-05",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2023/WD-web-animations-1-20230605/",
+      "editor_draft": "https://drafts.csswg.org/web-animations-1/"
+    }
+  ]
+}

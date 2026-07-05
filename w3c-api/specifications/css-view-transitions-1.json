@@ -1,0 +1,58 @@
+{
+  "shortname": "css-view-transitions-1",
+  "title": "CSS View Transitions Module Level 1",
+  "shortlink": "https://www.w3.org/TR/css-view-transitions-1/",
+  "series": "css-view-transitions-1",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2022-10-25",
+      "status": "First Public Working Draft",
+      "maturity": "FPWD",
+      "uri": "https://www.w3.org/TR/2022/WD-css-view-transitions-1-20221025/",
+      "editor_draft": "https://drafts.csswg.org/css-view-transitions-1/"
+    },
+    {
+      "date": "2022-11-24",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2022/WD-css-view-transitions-1-20221124/",
+      "editor_draft": "https://drafts.csswg.org/css-view-transitions-1/"
+    },
+    {
+      "date": "2023-05-25",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2023/WD-css-view-transitions-1-20230525/",
+      "editor_draft": "https://drafts.csswg.org/css-view-transitions-1/"
+    },
+    {
+      "date": "2023-05-30",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2023/WD-css-view-transitions-1-20230530/",
+      "editor_draft": "https://drafts.csswg.org/css-view-transitions-1/"
+    },
+    {
+      "date": "2023-08-03",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2023/WD-css-view-transitions-1-20230803/",
+      "editor_draft": "https://drafts.csswg.org/css-view-transitions-1/"
+    },
+    {
+      "date": "2023-09-05",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2023/CR-css-view-transitions-1-20230905/",
+      "editor_draft": "https://drafts.csswg.org/css-view-transitions-1/"
+    },
+    {
+      "date": "2024-03-28",
+      "status": "Candidate Recommendation Draft",
+      "maturity": "CRD",
+      "uri": "https://www.w3.org/TR/2024/CRD-css-view-transitions-1-20240328/",
+      "editor_draft": "https://drafts.csswg.org/css-view-transitions-1/"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "shortname": "css-writing-modes-4",
+  "title": "CSS Writing Modes Level 4",
+  "shortlink": "https://www.w3.org/TR/css-writing-modes-4/",
+  "series": "css-writing-modes-4",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2017-12-07",
+      "status": "First Public Working Draft",
+      "maturity": "FPWD",
+      "uri": "https://www.w3.org/TR/2017/WD-css-writing-modes-4-20171207/",
+      "editor_draft": "https://drafts.csswg.org/css-writing-modes-4/"
+    },
+    {
+      "date": "2018-05-24",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2018/CR-css-writing-modes-4-20180524/",
+      "editor_draft": "https://drafts.csswg.org/css-writing-modes-4/"
+    },
+    {
+      "date": "2019-07-30",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2019/CR-css-writing-modes-4-20190730/",
+      "editor_draft": "https://drafts.csswg.org/css-writing-modes-4/"
+    }
+  ]
+}

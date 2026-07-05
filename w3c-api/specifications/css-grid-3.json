@@ -1,0 +1,58 @@
+{
+  "shortname": "css-grid-3",
+  "title": "CSS Grid Layout Module Level 3",
+  "shortlink": "https://www.w3.org/TR/css-grid-3/",
+  "series": "css-grid-3",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2024-09-19",
+      "status": "First Public Working Draft",
+      "maturity": "FPWD",
+      "uri": "https://www.w3.org/TR/2024/WD-css-grid-3-20240919/",
+      "editor_draft": "https://drafts.csswg.org/css-grid-3/"
+    },
+    {
+      "date": "2024-10-03",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2024/WD-css-grid-3-20241003/",
+      "editor_draft": "https://drafts.csswg.org/css-grid-3/"
+    },
+    {
+      "date": "2025-02-07",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2025/WD-css-grid-3-20250207/",
+      "editor_draft": "https://drafts.csswg.org/css-grid-3/"
+    },
+    {
+      "date": "2025-09-17",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2025/WD-css-grid-3-20250917/",
+      "editor_draft": "https://drafts.csswg.org/css-grid-3/"
+    },
+    {
+      "date": "2025-12-16",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2025/WD-css-grid-3-20251216/",
+      "editor_draft": "https://drafts.csswg.org/css-grid-3/"
+    },
+    {
+      "date": "2025-12-23",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2025/WD-css-grid-3-20251223/",
+      "editor_draft": "https://drafts.csswg.org/css-grid-3/"
+    },
+    {
+      "date": "2026-01-21",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2026/WD-css-grid-3-20260121/",
+      "editor_draft": "https://drafts.csswg.org/css-grid-3/"
+    }
+  ]
+}

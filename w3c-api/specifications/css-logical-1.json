@@ -1,0 +1,30 @@
+{
+  "shortname": "css-logical-1",
+  "title": "CSS Logical Properties and Values Module Level 1",
+  "shortlink": "https://www.w3.org/TR/css-logical-1/",
+  "series": "css-logical-1",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2017-05-18",
+      "status": "First Public Working Draft",
+      "maturity": "FPWD",
+      "uri": "https://www.w3.org/TR/2017/WD-css-logical-1-20170518/",
+      "editor_draft": "https://drafts.csswg.org/css-logical-1/"
+    },
+    {
+      "date": "2018-08-27",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2018/WD-css-logical-1-20180827/",
+      "editor_draft": "https://drafts.csswg.org/css-logical-1/"
+    },
+    {
+      "date": "2025-12-04",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2025/WD-css-logical-1-20251204/",
+      "editor_draft": "https://drafts.csswg.org/css-logical-1/"
+    }
+  ]
+}

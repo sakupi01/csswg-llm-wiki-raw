@@ -1,0 +1,44 @@
+{
+  "shortname": "css-tv",
+  "title": "CSS TV Profile 1.0",
+  "shortlink": "https://www.w3.org/TR/css-tv/",
+  "series": "css-tv",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2001-12-21",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2001/WD-css-tv-20011221",
+      "editor_draft": null
+    },
+    {
+      "date": "2002-05-15",
+      "status": "Last Call Working Draft",
+      "maturity": "LCWD",
+      "uri": "https://www.w3.org/TR/2002/WD-css-tv-20020515",
+      "editor_draft": null
+    },
+    {
+      "date": "2002-08-07",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2002/CR-css-tv-20020807",
+      "editor_draft": null
+    },
+    {
+      "date": "2003-05-14",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2003/CR-css-tv-20030514",
+      "editor_draft": null
+    },
+    {
+      "date": "2014-10-14",
+      "status": "Retired",
+      "maturity": "RETIRED",
+      "uri": "https://www.w3.org/TR/2014/NOTE-css-tv-20141014/",
+      "editor_draft": null
+    }
+  ]
+}

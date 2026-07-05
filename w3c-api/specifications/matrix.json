@@ -1,0 +1,23 @@
+{
+  "shortname": "matrix",
+  "title": "DOMMatrix interface",
+  "shortlink": "https://www.w3.org/TR/matrix/",
+  "series": null,
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2013-09-19",
+      "status": "First Public Working Draft",
+      "maturity": "FPWD",
+      "uri": "https://www.w3.org/TR/2013/WD-matrix-20130919/",
+      "editor_draft": "https://drafts.csswg.org/matrix/"
+    },
+    {
+      "date": "2018-04-12",
+      "status": "Retired",
+      "maturity": "RETIRED",
+      "uri": "https://www.w3.org/TR/2018/NOTE-matrix-20180412/",
+      "editor_draft": "https://drafts.csswg.org/matrix/"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "shortname": "css-easing-2",
+  "title": "CSS Easing Functions Level 2",
+  "shortlink": "https://www.w3.org/TR/css-easing-2/",
+  "series": "css-easing-2",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2024-08-29",
+      "status": "First Public Working Draft",
+      "maturity": "FPWD",
+      "uri": "https://www.w3.org/TR/2024/WD-css-easing-2-20240829/",
+      "editor_draft": "https://drafts.csswg.org/css-easing/"
+    }
+  ]
+}

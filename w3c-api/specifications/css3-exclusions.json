@@ -1,0 +1,37 @@
+{
+  "shortname": "css3-exclusions",
+  "title": "CSS Exclusions Module Level 1",
+  "shortlink": "https://www.w3.org/TR/css3-exclusions/",
+  "series": "css3-exclusions",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2011-12-13",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2011/WD-css3-exclusions-20111213/",
+      "editor_draft": "https://drafts.csswg.org/css-exclusions/"
+    },
+    {
+      "date": "2012-05-03",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2012/WD-css3-exclusions-20120503/",
+      "editor_draft": "https://drafts.csswg.org/css-exclusions/"
+    },
+    {
+      "date": "2013-05-28",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2013/WD-css3-exclusions-20130528/",
+      "editor_draft": "https://drafts.csswg.org/css-exclusions/"
+    },
+    {
+      "date": "2015-01-15",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2015/WD-css3-exclusions-20150115/",
+      "editor_draft": "https://drafts.csswg.org/css-exclusions/"
+    }
+  ]
+}

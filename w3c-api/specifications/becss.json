@@ -1,0 +1,37 @@
+{
+  "shortname": "becss",
+  "title": "Behavioral Extensions to CSS",
+  "shortlink": "https://www.w3.org/TR/becss/",
+  "series": null,
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "1999-08-04",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/1999/WD-becss-19990804",
+      "editor_draft": "https://dev.w3.org/2006/xbl2/css-module.html"
+    },
+    {
+      "date": "2007-02-05",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2007/WD-becss-20070205",
+      "editor_draft": "https://dev.w3.org/2006/xbl2/css-module.html"
+    },
+    {
+      "date": "2007-10-19",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2007/WD-becss-20071019",
+      "editor_draft": "https://dev.w3.org/2006/xbl2/css-module.html"
+    },
+    {
+      "date": "2014-10-14",
+      "status": "Retired",
+      "maturity": "RETIRED",
+      "uri": "https://www.w3.org/TR/2014/NOTE-becss-20141014/",
+      "editor_draft": "https://dev.w3.org/2006/xbl2/css-module.html"
+    }
+  ]
+}

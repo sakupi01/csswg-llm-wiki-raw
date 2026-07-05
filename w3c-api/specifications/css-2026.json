@@ -1,0 +1,30 @@
+{
+  "shortname": "css-2026",
+  "title": "CSS Snapshot 2026",
+  "shortlink": "https://www.w3.org/TR/css-2026/",
+  "series": "css-2026",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2026-02-26",
+      "status": "Note",
+      "maturity": "NOTE",
+      "uri": "https://www.w3.org/TR/2026/NOTE-css-2026-20260226/",
+      "editor_draft": "https://drafts.csswg.org/css-2026/"
+    },
+    {
+      "date": "2026-03-26",
+      "status": "Note",
+      "maturity": "NOTE",
+      "uri": "https://www.w3.org/TR/2026/NOTE-css-2026-20260326/",
+      "editor_draft": "https://drafts.csswg.org/css-2026/"
+    },
+    {
+      "date": "2026-06-22",
+      "status": "Note",
+      "maturity": "NOTE",
+      "uri": "https://www.w3.org/TR/2026/NOTE-css-2026-20260622/",
+      "editor_draft": "https://drafts.csswg.org/css-2026/"
+    }
+  ]
+}

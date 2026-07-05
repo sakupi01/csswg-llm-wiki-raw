@@ -1,0 +1,65 @@
+{
+  "shortname": "mediaqueries-4",
+  "title": "Media Queries Level 4",
+  "shortlink": "https://www.w3.org/TR/mediaqueries-4/",
+  "series": "mediaqueries-4",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2014-06-05",
+      "status": "First Public Working Draft",
+      "maturity": "FPWD",
+      "uri": "https://www.w3.org/TR/2014/WD-mediaqueries-4-20140605/",
+      "editor_draft": "https://drafts.csswg.org/mediaqueries-4/"
+    },
+    {
+      "date": "2016-01-26",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2016/WD-mediaqueries-4-20160126/",
+      "editor_draft": "https://drafts.csswg.org/mediaqueries-4/"
+    },
+    {
+      "date": "2016-07-06",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2016/WD-mediaqueries-4-20160706/",
+      "editor_draft": "https://drafts.csswg.org/mediaqueries-4/"
+    },
+    {
+      "date": "2017-05-19",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2017/WD-mediaqueries-4-20170519/",
+      "editor_draft": "https://drafts.csswg.org/mediaqueries-4/"
+    },
+    {
+      "date": "2017-09-05",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2017/CR-mediaqueries-4-20170905/",
+      "editor_draft": "https://drafts.csswg.org/mediaqueries-4/"
+    },
+    {
+      "date": "2020-07-21",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2020/CR-mediaqueries-4-20200721/",
+      "editor_draft": "https://drafts.csswg.org/mediaqueries-4/"
+    },
+    {
+      "date": "2021-12-25",
+      "status": "Candidate Recommendation Draft",
+      "maturity": "CRD",
+      "uri": "https://www.w3.org/TR/2021/CRD-mediaqueries-4-20211225/",
+      "editor_draft": "https://drafts.csswg.org/mediaqueries-4/"
+    },
+    {
+      "date": "2026-02-19",
+      "status": "Candidate Recommendation Draft",
+      "maturity": "CRD",
+      "uri": "https://www.w3.org/TR/2026/CRD-mediaqueries-4-20260219/",
+      "editor_draft": "https://drafts.csswg.org/mediaqueries-4/"
+    }
+  ]
+}

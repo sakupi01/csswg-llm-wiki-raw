@@ -1,0 +1,37 @@
+{
+  "shortname": "css3-roadmap",
+  "title": "CSS3 introduction",
+  "shortlink": "https://www.w3.org/TR/css3-roadmap/",
+  "series": "css3-roadmap",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2000-04-14",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2000/WD-css3-roadmap-20000414",
+      "editor_draft": null
+    },
+    {
+      "date": "2001-01-19",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2001/WD-css3-roadmap-20010119",
+      "editor_draft": null
+    },
+    {
+      "date": "2001-04-06",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2001/WD-css3-roadmap-20010406/",
+      "editor_draft": null
+    },
+    {
+      "date": "2001-05-23",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2001/WD-css3-roadmap-20010523/",
+      "editor_draft": null
+    }
+  ]
+}

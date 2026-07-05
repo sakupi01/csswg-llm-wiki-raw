@@ -1,0 +1,44 @@
+{
+  "shortname": "css-properties-values-api-1",
+  "title": "CSS Properties and Values API Level 1",
+  "shortlink": "https://www.w3.org/TR/css-properties-values-api-1/",
+  "series": "css-properties-values-api-1",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2016-06-07",
+      "status": "First Public Working Draft",
+      "maturity": "FPWD",
+      "uri": "https://www.w3.org/TR/2016/WD-css-properties-values-api-1-20160607/",
+      "editor_draft": "https://drafts.css-houdini.org/css-properties-values-api-1/"
+    },
+    {
+      "date": "2017-11-09",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2017/WD-css-properties-values-api-1-20171109/",
+      "editor_draft": "https://drafts.css-houdini.org/css-properties-values-api-1/"
+    },
+    {
+      "date": "2019-10-25",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2019/WD-css-properties-values-api-1-20191025/",
+      "editor_draft": "https://drafts.css-houdini.org/css-properties-values-api-1/"
+    },
+    {
+      "date": "2020-10-13",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2020/WD-css-properties-values-api-1-20201013/",
+      "editor_draft": "https://drafts.css-houdini.org/css-properties-values-api-1/"
+    },
+    {
+      "date": "2024-03-26",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2024/WD-css-properties-values-api-1-20240326/",
+      "editor_draft": "https://drafts.css-houdini.org/css-properties-values-api-1/"
+    }
+  ]
+}

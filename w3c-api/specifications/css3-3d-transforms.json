@@ -1,0 +1,16 @@
+{
+  "shortname": "css3-3d-transforms",
+  "title": "CSS 3D Transforms Module Level 3",
+  "shortlink": "https://www.w3.org/TR/css3-3d-transforms/",
+  "series": "css3-3d-transforms",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2009-03-20",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2009/WD-css3-3d-transforms-20090320/",
+      "editor_draft": "https://drafts.csswg.org/css-transforms-2/"
+    }
+  ]
+}

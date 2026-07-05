@@ -1,0 +1,86 @@
+{
+  "shortname": "css-contain-1",
+  "title": "CSS Containment Module Level 1",
+  "shortlink": "https://www.w3.org/TR/css-contain-1/",
+  "series": "css-contain-1",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2017-02-21",
+      "status": "First Public Working Draft",
+      "maturity": "FPWD",
+      "uri": "https://www.w3.org/TR/2017/WD-css-contain-1-20170221/",
+      "editor_draft": "https://drafts.csswg.org/css-contain-1/"
+    },
+    {
+      "date": "2017-04-19",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2017/WD-css-contain-1-20170419/",
+      "editor_draft": "https://drafts.csswg.org/css-contain-1/"
+    },
+    {
+      "date": "2017-08-08",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2017/CR-css-contain-1-20170808/",
+      "editor_draft": "https://drafts.csswg.org/css-contain-1/"
+    },
+    {
+      "date": "2018-05-24",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2018/CR-css-contain-1-20180524/",
+      "editor_draft": "https://drafts.csswg.org/css-contain-1/"
+    },
+    {
+      "date": "2018-11-08",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2018/CR-css-contain-1-20181108/",
+      "editor_draft": "https://drafts.csswg.org/css-contain-1/"
+    },
+    {
+      "date": "2019-04-30",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2019/CR-css-contain-1-20190430/",
+      "editor_draft": "https://drafts.csswg.org/css-contain-1/"
+    },
+    {
+      "date": "2019-10-15",
+      "status": "Proposed Recommendation",
+      "maturity": "PR",
+      "uri": "https://www.w3.org/TR/2019/PR-css-contain-1-20191015/",
+      "editor_draft": "https://drafts.csswg.org/css-contain-1/"
+    },
+    {
+      "date": "2019-11-21",
+      "status": "Recommendation",
+      "maturity": "REC",
+      "uri": "https://www.w3.org/TR/2019/REC-css-contain-1-20191121/",
+      "editor_draft": "https://drafts.csswg.org/css-contain-1/"
+    },
+    {
+      "date": "2020-12-22",
+      "status": "Recommendation",
+      "maturity": "REC",
+      "uri": "https://www.w3.org/TR/2020/REC-css-contain-1-20201222/",
+      "editor_draft": "https://drafts.csswg.org/css-contain-1/"
+    },
+    {
+      "date": "2022-10-25",
+      "status": "Recommendation",
+      "maturity": "REC",
+      "uri": "https://www.w3.org/TR/2022/REC-css-contain-1-20221025/",
+      "editor_draft": "https://drafts.csswg.org/css-contain-1/"
+    },
+    {
+      "date": "2024-06-25",
+      "status": "Recommendation",
+      "maturity": "REC",
+      "uri": "https://www.w3.org/TR/2024/REC-css-contain-1-20240625/",
+      "editor_draft": "https://drafts.csswg.org/css-contain-1/"
+    }
+  ]
+}

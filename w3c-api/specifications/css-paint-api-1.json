@@ -1,0 +1,37 @@
+{
+  "shortname": "css-paint-api-1",
+  "title": "CSS Painting API Level 1",
+  "shortlink": "https://www.w3.org/TR/css-paint-api-1/",
+  "series": "css-paint-api-1",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2016-06-07",
+      "status": "First Public Working Draft",
+      "maturity": "FPWD",
+      "uri": "https://www.w3.org/TR/2016/WD-css-paint-api-1-20160607/",
+      "editor_draft": "https://drafts.css-houdini.org/css-paint-api-1/"
+    },
+    {
+      "date": "2018-04-10",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2018/WD-css-paint-api-1-20180410/",
+      "editor_draft": "https://drafts.css-houdini.org/css-paint-api-1/"
+    },
+    {
+      "date": "2018-08-09",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2018/CR-css-paint-api-1-20180809/",
+      "editor_draft": "https://drafts.css-houdini.org/css-paint-api-1/"
+    },
+    {
+      "date": "2021-12-16",
+      "status": "Candidate Recommendation Draft",
+      "maturity": "CRD",
+      "uri": "https://www.w3.org/TR/2021/CRD-css-paint-api-1-20211216/",
+      "editor_draft": "https://drafts.css-houdini.org/css-paint-api-1/"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "shortname": "css-multicol-2",
+  "title": "CSS Multi-column Layout Module Level 2",
+  "shortlink": "https://www.w3.org/TR/css-multicol-2/",
+  "series": "css-multicol-2",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2024-12-19",
+      "status": "First Public Working Draft",
+      "maturity": "FPWD",
+      "uri": "https://www.w3.org/TR/2024/WD-css-multicol-2-20241219/",
+      "editor_draft": "https://drafts.csswg.org/css-multicol-2/"
+    }
+  ]
+}

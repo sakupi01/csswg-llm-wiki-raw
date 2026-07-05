@@ -1,0 +1,135 @@
+{
+  "shortname": "css-display-3",
+  "title": "CSS Display Module Level 3",
+  "shortlink": "https://www.w3.org/TR/css-display-3/",
+  "series": "css-display-3",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2014-02-20",
+      "status": "First Public Working Draft",
+      "maturity": "FPWD",
+      "uri": "https://www.w3.org/TR/2014/WD-css-display-3-20140220/",
+      "editor_draft": "https://drafts.csswg.org/css-display/"
+    },
+    {
+      "date": "2014-09-11",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2014/WD-css-display-3-20140911/",
+      "editor_draft": "https://drafts.csswg.org/css-display/"
+    },
+    {
+      "date": "2015-07-21",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2015/WD-css-display-3-20150721/",
+      "editor_draft": "https://drafts.csswg.org/css-display/"
+    },
+    {
+      "date": "2015-10-15",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2015/WD-css-display-3-20151015/",
+      "editor_draft": "https://drafts.csswg.org/css-display/"
+    },
+    {
+      "date": "2017-01-25",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2017/WD-css-display-3-20170125/",
+      "editor_draft": "https://drafts.csswg.org/css-display/"
+    },
+    {
+      "date": "2017-01-26",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2017/WD-css-display-3-20170126/",
+      "editor_draft": "https://drafts.csswg.org/css-display/"
+    },
+    {
+      "date": "2017-07-20",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2017/WD-css-display-3-20170720/",
+      "editor_draft": "https://drafts.csswg.org/css-display/"
+    },
+    {
+      "date": "2018-04-20",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2018/WD-css-display-3-20180420/",
+      "editor_draft": "https://drafts.csswg.org/css-display/"
+    },
+    {
+      "date": "2018-08-09",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2018/WD-css-display-3-20180809/",
+      "editor_draft": "https://drafts.csswg.org/css-display/"
+    },
+    {
+      "date": "2018-08-28",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2018/CR-css-display-3-20180828/",
+      "editor_draft": "https://drafts.csswg.org/css-display/"
+    },
+    {
+      "date": "2019-07-11",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2019/CR-css-display-3-20190711/",
+      "editor_draft": "https://drafts.csswg.org/css-display/"
+    },
+    {
+      "date": "2020-05-19",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2020/CR-css-display-3-20200519/",
+      "editor_draft": "https://drafts.csswg.org/css-display/"
+    },
+    {
+      "date": "2020-12-18",
+      "status": "Candidate Recommendation Draft",
+      "maturity": "CRD",
+      "uri": "https://www.w3.org/TR/2020/CRD-css-display-3-20201218/",
+      "editor_draft": "https://drafts.csswg.org/css-display/"
+    },
+    {
+      "date": "2021-09-03",
+      "status": "Candidate Recommendation Draft",
+      "maturity": "CRD",
+      "uri": "https://www.w3.org/TR/2021/CRD-css-display-3-20210903/",
+      "editor_draft": "https://drafts.csswg.org/css-display/"
+    },
+    {
+      "date": "2022-11-18",
+      "status": "Candidate Recommendation Draft",
+      "maturity": "CRD",
+      "uri": "https://www.w3.org/TR/2022/CRD-css-display-3-20221118/",
+      "editor_draft": "https://drafts.csswg.org/css-display/"
+    },
+    {
+      "date": "2023-03-16",
+      "status": "Candidate Recommendation Draft",
+      "maturity": "CRD",
+      "uri": "https://www.w3.org/TR/2023/CRD-css-display-3-20230316/",
+      "editor_draft": "https://drafts.csswg.org/css-display/"
+    },
+    {
+      "date": "2023-03-30",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2023/CR-css-display-3-20230330/",
+      "editor_draft": "https://drafts.csswg.org/css-display/"
+    },
+    {
+      "date": "2026-06-05",
+      "status": "Candidate Recommendation Draft",
+      "maturity": "CRD",
+      "uri": "https://www.w3.org/TR/2026/CRD-css-display-3-20260605/",
+      "editor_draft": "https://drafts.csswg.org/css-display/"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "shortname": "css-masking-1",
+  "title": "CSS Masking Module Level 1",
+  "shortlink": "https://www.w3.org/TR/css-masking-1/",
+  "series": "css-masking-1",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2012-11-15",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2012/WD-css-masking-20121115/",
+      "editor_draft": "https://drafts.csswg.org/css-masking-1/"
+    },
+    {
+      "date": "2013-06-20",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2013/WD-css-masking-20130620/",
+      "editor_draft": "https://drafts.csswg.org/css-masking-1/"
+    },
+    {
+      "date": "2013-10-29",
+      "status": "Last Call Working Draft",
+      "maturity": "LCWD",
+      "uri": "https://www.w3.org/TR/2013/WD-css-masking-1-20131029/",
+      "editor_draft": "https://drafts.csswg.org/css-masking-1/"
+    },
+    {
+      "date": "2014-02-13",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2014/WD-css-masking-1-20140213/",
+      "editor_draft": "https://drafts.csswg.org/css-masking-1/"
+    },
+    {
+      "date": "2014-05-22",
+      "status": "Last Call Working Draft",
+      "maturity": "LCWD",
+      "uri": "https://www.w3.org/TR/2014/WD-css-masking-1-20140522/",
+      "editor_draft": "https://drafts.csswg.org/css-masking-1/"
+    },
+    {
+      "date": "2014-08-26",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2014/CR-css-masking-1-20140826/",
+      "editor_draft": "https://drafts.csswg.org/css-masking-1/"
+    },
+    {
+      "date": "2021-08-05",
+      "status": "Candidate Recommendation Draft",
+      "maturity": "CRD",
+      "uri": "https://www.w3.org/TR/2021/CRD-css-masking-1-20210805/",
+      "editor_draft": "https://drafts.csswg.org/css-masking-1/"
+    }
+  ]
+}

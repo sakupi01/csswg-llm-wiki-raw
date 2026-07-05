@@ -1,0 +1,114 @@
+{
+  "shortname": "css-flexbox-1",
+  "title": "CSS Flexible Box Layout Module Level 1",
+  "shortlink": "https://www.w3.org/TR/css-flexbox-1/",
+  "series": "css-flexbox-1",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2009-07-23",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2009/WD-css3-flexbox-20090723/",
+      "editor_draft": "https://drafts.csswg.org/css-flexbox/"
+    },
+    {
+      "date": "2011-03-22",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2011/WD-css3-flexbox-20110322/",
+      "editor_draft": "https://drafts.csswg.org/css-flexbox/"
+    },
+    {
+      "date": "2011-11-29",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2011/WD-css3-flexbox-20111129/",
+      "editor_draft": "https://drafts.csswg.org/css-flexbox/"
+    },
+    {
+      "date": "2012-03-22",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2012/WD-css3-flexbox-20120322/",
+      "editor_draft": "https://drafts.csswg.org/css-flexbox/"
+    },
+    {
+      "date": "2012-06-12",
+      "status": "Last Call Working Draft",
+      "maturity": "LCWD",
+      "uri": "https://www.w3.org/TR/2012/WD-css3-flexbox-20120612/",
+      "editor_draft": "https://drafts.csswg.org/css-flexbox/"
+    },
+    {
+      "date": "2012-09-18",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2012/CR-css3-flexbox-20120918/",
+      "editor_draft": "https://drafts.csswg.org/css-flexbox/"
+    },
+    {
+      "date": "2014-03-25",
+      "status": "Last Call Working Draft",
+      "maturity": "LCWD",
+      "uri": "https://www.w3.org/TR/2014/WD-css-flexbox-1-20140325/",
+      "editor_draft": "https://drafts.csswg.org/css-flexbox/"
+    },
+    {
+      "date": "2014-09-25",
+      "status": "Last Call Working Draft",
+      "maturity": "LCWD",
+      "uri": "https://www.w3.org/TR/2014/WD-css-flexbox-1-20140925/",
+      "editor_draft": "https://drafts.csswg.org/css-flexbox/"
+    },
+    {
+      "date": "2015-05-14",
+      "status": "Last Call Working Draft",
+      "maturity": "LCWD",
+      "uri": "https://www.w3.org/TR/2015/WD-css-flexbox-1-20150514/",
+      "editor_draft": "https://drafts.csswg.org/css-flexbox/"
+    },
+    {
+      "date": "2016-03-01",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2016/CR-css-flexbox-1-20160301/",
+      "editor_draft": "https://drafts.csswg.org/css-flexbox/"
+    },
+    {
+      "date": "2016-05-26",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2016/CR-css-flexbox-1-20160526/",
+      "editor_draft": "https://drafts.csswg.org/css-flexbox/"
+    },
+    {
+      "date": "2017-10-19",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2017/CR-css-flexbox-1-20171019/",
+      "editor_draft": "https://drafts.csswg.org/css-flexbox/"
+    },
+    {
+      "date": "2018-11-08",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2018/CR-css-flexbox-1-20181108/",
+      "editor_draft": "https://drafts.csswg.org/css-flexbox/"
+    },
+    {
+      "date": "2018-11-19",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2018/CR-css-flexbox-1-20181119/",
+      "editor_draft": "https://drafts.csswg.org/css-flexbox/"
+    },
+    {
+      "date": "2025-10-14",
+      "status": "Candidate Recommendation Draft",
+      "maturity": "CRD",
+      "uri": "https://www.w3.org/TR/2025/CRD-css-flexbox-1-20251014/",
+      "editor_draft": "https://drafts.csswg.org/css-flexbox/"
+    }
+  ]
+}

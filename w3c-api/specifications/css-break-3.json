@@ -1,0 +1,58 @@
+{
+  "shortname": "css-break-3",
+  "title": "CSS Fragmentation Module Level 3",
+  "shortlink": "https://www.w3.org/TR/css-break-3/",
+  "series": "css-break-3",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2012-02-28",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2012/WD-css3-break-20120228/",
+      "editor_draft": "https://drafts.csswg.org/css-break/"
+    },
+    {
+      "date": "2012-08-23",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2012/WD-css3-break-20120823/",
+      "editor_draft": "https://drafts.csswg.org/css-break/"
+    },
+    {
+      "date": "2014-01-16",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2014/WD-css3-break-20140116/",
+      "editor_draft": "https://drafts.csswg.org/css-break/"
+    },
+    {
+      "date": "2015-01-29",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2015/WD-css3-break-20150129/",
+      "editor_draft": "https://drafts.csswg.org/css-break/"
+    },
+    {
+      "date": "2016-01-14",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2016/CR-css-break-3-20160114/",
+      "editor_draft": "https://drafts.csswg.org/css-break/"
+    },
+    {
+      "date": "2017-02-09",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2017/CR-css-break-3-20170209/",
+      "editor_draft": "https://drafts.csswg.org/css-break/"
+    },
+    {
+      "date": "2018-12-04",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2018/CR-css-break-3-20181204/",
+      "editor_draft": "https://drafts.csswg.org/css-break/"
+    }
+  ]
+}

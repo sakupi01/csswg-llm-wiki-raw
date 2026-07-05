@@ -1,0 +1,37 @@
+{
+  "shortname": "css-conditional-4",
+  "title": "CSS Conditional Rules Module Level 4",
+  "shortlink": "https://www.w3.org/TR/css-conditional-4/",
+  "series": "css-conditional-4",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2020-03-03",
+      "status": "First Public Working Draft",
+      "maturity": "FPWD",
+      "uri": "https://www.w3.org/TR/2020/WD-css-conditional-4-20200303/",
+      "editor_draft": "https://drafts.csswg.org/css-conditional-4/"
+    },
+    {
+      "date": "2021-12-25",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2021/WD-css-conditional-4-20211225/",
+      "editor_draft": "https://drafts.csswg.org/css-conditional-4/"
+    },
+    {
+      "date": "2022-02-17",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2022/CR-css-conditional-4-20220217/",
+      "editor_draft": "https://drafts.csswg.org/css-conditional-4/"
+    },
+    {
+      "date": "2025-09-04",
+      "status": "Candidate Recommendation Draft",
+      "maturity": "CRD",
+      "uri": "https://www.w3.org/TR/2025/CRD-css-conditional-4-20250904/",
+      "editor_draft": "https://drafts.csswg.org/css-conditional-4/"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "shortname": "selectors-4",
+  "title": "Selectors Level 4",
+  "shortlink": "https://www.w3.org/TR/selectors-4/",
+  "series": "selectors-4",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2011-09-29",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2011/WD-selectors4-20110929/",
+      "editor_draft": "https://drafts.csswg.org/selectors/"
+    },
+    {
+      "date": "2012-08-23",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2012/WD-selectors4-20120823/",
+      "editor_draft": "https://drafts.csswg.org/selectors/"
+    },
+    {
+      "date": "2013-05-02",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2013/WD-selectors4-20130502/",
+      "editor_draft": "https://drafts.csswg.org/selectors/"
+    },
+    {
+      "date": "2018-02-01",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2018/WD-selectors-4-20180201/",
+      "editor_draft": "https://drafts.csswg.org/selectors/"
+    },
+    {
+      "date": "2018-02-02",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2018/WD-selectors-4-20180202/",
+      "editor_draft": "https://drafts.csswg.org/selectors/"
+    },
+    {
+      "date": "2018-11-21",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2018/WD-selectors-4-20181121/",
+      "editor_draft": "https://drafts.csswg.org/selectors/"
+    },
+    {
+      "date": "2022-05-07",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2022/WD-selectors-4-20220507/",
+      "editor_draft": "https://drafts.csswg.org/selectors/"
+    },
+    {
+      "date": "2022-11-11",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2022/WD-selectors-4-20221111/",
+      "editor_draft": "https://drafts.csswg.org/selectors/"
+    },
+    {
+      "date": "2026-01-22",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2026/WD-selectors-4-20260122/",
+      "editor_draft": "https://drafts.csswg.org/selectors/"
+    }
+  ]
+}

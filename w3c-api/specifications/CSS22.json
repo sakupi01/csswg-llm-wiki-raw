@@ -1,0 +1,16 @@
+{
+  "shortname": "CSS22",
+  "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification",
+  "shortlink": "https://www.w3.org/TR/CSS22/",
+  "series": "CSS22",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2016-04-12",
+      "status": "First Public Working Draft",
+      "maturity": "FPWD",
+      "uri": "https://www.w3.org/TR/2016/WD-CSS22-20160412/",
+      "editor_draft": "https://drafts.csswg.org/css2/"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "shortname": "css-break-4",
+  "title": "CSS Fragmentation Module Level 4",
+  "shortlink": "https://www.w3.org/TR/css-break-4/",
+  "series": "css-break-4",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2018-12-18",
+      "status": "First Public Working Draft",
+      "maturity": "FPWD",
+      "uri": "https://www.w3.org/TR/2018/WD-css-break-4-20181218/",
+      "editor_draft": "https://drafts.csswg.org/css-break-4/"
+    }
+  ]
+}

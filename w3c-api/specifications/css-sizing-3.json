@@ -1,0 +1,79 @@
+{
+  "shortname": "css-sizing-3",
+  "title": "CSS Box Sizing Module Level 3",
+  "shortlink": "https://www.w3.org/TR/css-sizing-3/",
+  "series": "css-sizing-3",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2012-09-27",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2012/WD-css3-sizing-20120927/",
+      "editor_draft": "https://drafts.csswg.org/css-sizing-3/"
+    },
+    {
+      "date": "2016-05-10",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2016/WD-css-sizing-3-20160510/",
+      "editor_draft": "https://drafts.csswg.org/css-sizing-3/"
+    },
+    {
+      "date": "2016-05-12",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2016/WD-css-sizing-3-20160512/",
+      "editor_draft": "https://drafts.csswg.org/css-sizing-3/"
+    },
+    {
+      "date": "2017-02-07",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2017/WD-css-sizing-3-20170207/",
+      "editor_draft": "https://drafts.csswg.org/css-sizing-3/"
+    },
+    {
+      "date": "2018-03-04",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2018/WD-css-sizing-3-20180304/",
+      "editor_draft": "https://drafts.csswg.org/css-sizing-3/"
+    },
+    {
+      "date": "2019-05-22",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2019/WD-css-sizing-3-20190522/",
+      "editor_draft": "https://drafts.csswg.org/css-sizing-3/"
+    },
+    {
+      "date": "2020-10-23",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2020/WD-css-sizing-3-20201023/",
+      "editor_draft": "https://drafts.csswg.org/css-sizing-3/"
+    },
+    {
+      "date": "2020-12-18",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2020/WD-css-sizing-3-20201218/",
+      "editor_draft": "https://drafts.csswg.org/css-sizing-3/"
+    },
+    {
+      "date": "2021-03-17",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2021/WD-css-sizing-3-20210317/",
+      "editor_draft": "https://drafts.csswg.org/css-sizing-3/"
+    },
+    {
+      "date": "2021-12-17",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2021/WD-css-sizing-3-20211217/",
+      "editor_draft": "https://drafts.csswg.org/css-sizing-3/"
+    }
+  ]
+}

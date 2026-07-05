@@ -1,0 +1,30 @@
+{
+  "shortname": "css3-2d-transforms",
+  "title": "CSS 2D Transforms",
+  "shortlink": "https://www.w3.org/TR/css3-2d-transforms/",
+  "series": "css3-2d-transforms",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2009-03-20",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2009/WD-css3-2d-transforms-20090320",
+      "editor_draft": null
+    },
+    {
+      "date": "2009-12-01",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2009/WD-css3-2d-transforms-20091201/",
+      "editor_draft": null
+    },
+    {
+      "date": "2011-12-15",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2011/WD-css3-2d-transforms-20111215/",
+      "editor_draft": null
+    }
+  ]
+}

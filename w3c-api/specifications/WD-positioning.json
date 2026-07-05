@@ -1,0 +1,16 @@
+{
+  "shortname": "WD-positioning",
+  "title": "Positioning HTML Elements with Cascading Style Sheets",
+  "shortlink": "https://www.w3.org/TR/WD-positioning",
+  "series": null,
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "1999-09-02",
+      "status": "Retired",
+      "maturity": "RETIRED",
+      "uri": "https://www.w3.org/TR/1999/WD-positioning-19990902",
+      "editor_draft": null
+    }
+  ]
+}

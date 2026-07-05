@@ -1,0 +1,30 @@
+{
+  "shortname": "css-device-adapt-1",
+  "title": "CSS Device Adaptation Module Level 1",
+  "shortlink": "https://www.w3.org/TR/css-device-adapt-1/",
+  "series": "css-device-adapt-1",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2011-09-15",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2011/WD-css-device-adapt-20110915/",
+      "editor_draft": "https://drafts.csswg.org/css-device-adapt/"
+    },
+    {
+      "date": "2015-11-26",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2015/WD-css-device-adapt-1-20151126/",
+      "editor_draft": "https://drafts.csswg.org/css-device-adapt/"
+    },
+    {
+      "date": "2016-03-29",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2016/WD-css-device-adapt-1-20160329/",
+      "editor_draft": "https://drafts.csswg.org/css-device-adapt/"
+    }
+  ]
+}

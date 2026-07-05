@@ -1,0 +1,37 @@
+{
+  "shortname": "css-box-4",
+  "title": "CSS Box Model Module Level 4",
+  "shortlink": "https://www.w3.org/TR/css-box-4/",
+  "series": "css-box-4",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2020-04-21",
+      "status": "First Public Working Draft",
+      "maturity": "FPWD",
+      "uri": "https://www.w3.org/TR/2020/WD-css-box-4-20200421/",
+      "editor_draft": "https://drafts.csswg.org/css-box-4/"
+    },
+    {
+      "date": "2022-11-03",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2022/WD-css-box-4-20221103/",
+      "editor_draft": "https://drafts.csswg.org/css-box-4/"
+    },
+    {
+      "date": "2024-04-01",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2024/WD-css-box-4-20240401/",
+      "editor_draft": "https://drafts.csswg.org/css-box-4/"
+    },
+    {
+      "date": "2024-08-04",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2024/WD-css-box-4-20240804/",
+      "editor_draft": "https://drafts.csswg.org/css-box-4/"
+    }
+  ]
+}

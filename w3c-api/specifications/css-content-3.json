@@ -1,0 +1,44 @@
+{
+  "shortname": "css-content-3",
+  "title": "CSS Generated Content Module Level 3",
+  "shortlink": "https://www.w3.org/TR/css-content-3/",
+  "series": "css-content-3",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2003-05-14",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2003/WD-css3-content-20030514",
+      "editor_draft": "https://drafts.csswg.org/css-content-3/"
+    },
+    {
+      "date": "2016-06-02",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2016/WD-css-content-3-20160602/",
+      "editor_draft": "https://drafts.csswg.org/css-content-3/"
+    },
+    {
+      "date": "2019-07-10",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2019/WD-css-content-3-20190710/",
+      "editor_draft": "https://drafts.csswg.org/css-content-3/"
+    },
+    {
+      "date": "2019-08-02",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2019/WD-css-content-3-20190802/",
+      "editor_draft": "https://drafts.csswg.org/css-content-3/"
+    },
+    {
+      "date": "2025-12-04",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2025/WD-css-content-3-20251204/",
+      "editor_draft": "https://drafts.csswg.org/css-content-3/"
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "shortname": "css-color-5",
+  "title": "CSS Color Module Level 5",
+  "shortlink": "https://www.w3.org/TR/css-color-5/",
+  "series": "css-color-5",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2020-03-03",
+      "status": "First Public Working Draft",
+      "maturity": "FPWD",
+      "uri": "https://www.w3.org/TR/2020/WD-css-color-5-20200303/",
+      "editor_draft": "https://drafts.csswg.org/css-color-5/"
+    },
+    {
+      "date": "2021-06-01",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2021/WD-css-color-5-20210601/",
+      "editor_draft": "https://drafts.csswg.org/css-color-5/"
+    },
+    {
+      "date": "2021-07-22",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2021/WD-css-color-5-20210722/",
+      "editor_draft": "https://drafts.csswg.org/css-color-5/"
+    },
+    {
+      "date": "2021-12-15",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2021/WD-css-color-5-20211215/",
+      "editor_draft": "https://drafts.csswg.org/css-color-5/"
+    },
+    {
+      "date": "2022-04-28",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2022/WD-css-color-5-20220428/",
+      "editor_draft": "https://drafts.csswg.org/css-color-5/"
+    },
+    {
+      "date": "2022-06-28",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2022/WD-css-color-5-20220628/",
+      "editor_draft": "https://drafts.csswg.org/css-color-5/"
+    },
+    {
+      "date": "2024-02-29",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2024/WD-css-color-5-20240229/",
+      "editor_draft": "https://drafts.csswg.org/css-color-5/"
+    },
+    {
+      "date": "2025-03-18",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2025/WD-css-color-5-20250318/",
+      "editor_draft": "https://drafts.csswg.org/css-color-5/"
+    },
+    {
+      "date": "2026-01-13",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2026/WD-css-color-5-20260113/",
+      "editor_draft": "https://drafts.csswg.org/css-color-5/"
+    },
+    {
+      "date": "2026-02-27",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2026/WD-css-color-5-20260227/",
+      "editor_draft": "https://drafts.csswg.org/css-color-5/"
+    },
+    {
+      "date": "2026-03-19",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2026/WD-css-color-5-20260319/",
+      "editor_draft": "https://drafts.csswg.org/css-color-5/"
+    },
+    {
+      "date": "2026-03-23",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2026/WD-css-color-5-20260323/",
+      "editor_draft": "https://drafts.csswg.org/css-color-5/"
+    },
+    {
+      "date": "2026-03-24",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2026/WD-css-color-5-20260324/",
+      "editor_draft": "https://drafts.csswg.org/css-color-5/"
+    },
+    {
+      "date": "2026-03-25",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2026/WD-css-color-5-20260325/",
+      "editor_draft": "https://drafts.csswg.org/css-color-5/"
+    },
+    {
+      "date": "2026-04-10",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2026/WD-css-color-5-20260410/",
+      "editor_draft": "https://drafts.csswg.org/css-color-5/"
+    },
+    {
+      "date": "2026-04-13",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2026/WD-css-color-5-20260413/",
+      "editor_draft": "https://drafts.csswg.org/css-color-5/"
+    },
+    {
+      "date": "2026-05-02",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2026/WD-css-color-5-20260502/",
+      "editor_draft": "https://drafts.csswg.org/css-color-5/"
+    },
+    {
+      "date": "2026-05-07",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2026/WD-css-color-5-20260507/",
+      "editor_draft": "https://drafts.csswg.org/css-color-5/"
+    },
+    {
+      "date": "2026-06-05",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2026/WD-css-color-5-20260605/",
+      "editor_draft": "https://drafts.csswg.org/css-color-5/"
+    },
+    {
+      "date": "2026-06-18",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2026/WD-css-color-5-20260618/",
+      "editor_draft": "https://drafts.csswg.org/css-color-5/"
+    }
+  ]
+}

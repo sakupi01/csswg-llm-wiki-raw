@@ -1,0 +1,16 @@
+{
+  "shortname": "css-animation-worklet-1",
+  "title": "CSS Animation Worklet API",
+  "shortlink": "https://www.w3.org/TR/css-animation-worklet-1/",
+  "series": null,
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2019-06-25",
+      "status": "First Public Working Draft",
+      "maturity": "FPWD",
+      "uri": "https://www.w3.org/TR/2019/WD-css-animation-worklet-1-20190625/",
+      "editor_draft": "https://drafts.css-houdini.org/css-animationworklet-1/"
+    }
+  ]
+}

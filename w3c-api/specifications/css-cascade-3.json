@@ -1,0 +1,93 @@
+{
+  "shortname": "css-cascade-3",
+  "title": "CSS Cascading and Inheritance Level 3",
+  "shortlink": "https://www.w3.org/TR/css-cascade-3/",
+  "series": "css-cascade-3",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2001-07-13",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2001/WD-css3-cascade-20010713",
+      "editor_draft": "https://drafts.csswg.org/css-cascade-3/"
+    },
+    {
+      "date": "2002-02-19",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2002/WD-css3-cascade-20020219/",
+      "editor_draft": "https://drafts.csswg.org/css-cascade-3/"
+    },
+    {
+      "date": "2005-12-15",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2005/WD-css3-cascade-20051215",
+      "editor_draft": "https://drafts.csswg.org/css-cascade-3/"
+    },
+    {
+      "date": "2013-01-03",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2013/WD-css3-cascade-20130103/",
+      "editor_draft": "https://drafts.csswg.org/css-cascade-3/"
+    },
+    {
+      "date": "2013-07-30",
+      "status": "Last Call Working Draft",
+      "maturity": "LCWD",
+      "uri": "https://www.w3.org/TR/2013/WD-css-cascade-3-20130730/",
+      "editor_draft": "https://drafts.csswg.org/css-cascade-3/"
+    },
+    {
+      "date": "2013-10-03",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2013/CR-css-cascade-3-20131003/",
+      "editor_draft": "https://drafts.csswg.org/css-cascade-3/"
+    },
+    {
+      "date": "2015-04-16",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2015/CR-css-cascade-3-20150416/",
+      "editor_draft": "https://drafts.csswg.org/css-cascade-3/"
+    },
+    {
+      "date": "2016-05-19",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2016/CR-css-cascade-3-20160519/",
+      "editor_draft": "https://drafts.csswg.org/css-cascade-3/"
+    },
+    {
+      "date": "2018-08-28",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2018/CR-css-cascade-3-20180828/",
+      "editor_draft": "https://drafts.csswg.org/css-cascade-3/"
+    },
+    {
+      "date": "2020-08-17",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2020/CR-css-cascade-3-20200817/",
+      "editor_draft": "https://drafts.csswg.org/css-cascade-3/"
+    },
+    {
+      "date": "2020-12-22",
+      "status": "Proposed Recommendation",
+      "maturity": "PR",
+      "uri": "https://www.w3.org/TR/2020/PR-css-cascade-3-20201222/",
+      "editor_draft": "https://drafts.csswg.org/css-cascade-3/"
+    },
+    {
+      "date": "2021-02-11",
+      "status": "Recommendation",
+      "maturity": "REC",
+      "uri": "https://www.w3.org/TR/2021/REC-css-cascade-3-20210211/",
+      "editor_draft": "https://drafts.csswg.org/css-cascade-3/"
+    }
+  ]
+}

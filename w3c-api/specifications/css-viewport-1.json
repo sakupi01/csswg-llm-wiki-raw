@@ -1,0 +1,16 @@
+{
+  "shortname": "css-viewport-1",
+  "title": "CSS Viewport Module Level 1",
+  "shortlink": "https://www.w3.org/TR/css-viewport-1/",
+  "series": "css-viewport-1",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2024-01-25",
+      "status": "First Public Working Draft",
+      "maturity": "FPWD",
+      "uri": "https://www.w3.org/TR/2024/WD-css-viewport-1-20240125/",
+      "editor_draft": "https://drafts.csswg.org/css-viewport/"
+    }
+  ]
+}

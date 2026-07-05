@@ -1,0 +1,30 @@
+{
+  "shortname": "css-text-decor-4",
+  "title": "CSS Text Decoration Module Level 4",
+  "shortlink": "https://www.w3.org/TR/css-text-decor-4/",
+  "series": "css-text-decor-4",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2018-03-13",
+      "status": "First Public Working Draft",
+      "maturity": "FPWD",
+      "uri": "https://www.w3.org/TR/2018/WD-css-text-decor-4-20180313/",
+      "editor_draft": "https://drafts.csswg.org/css-text-decor-4/"
+    },
+    {
+      "date": "2020-05-06",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2020/WD-css-text-decor-4-20200506/",
+      "editor_draft": "https://drafts.csswg.org/css-text-decor-4/"
+    },
+    {
+      "date": "2022-05-04",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2022/WD-css-text-decor-4-20220504/",
+      "editor_draft": "https://drafts.csswg.org/css-text-decor-4/"
+    }
+  ]
+}

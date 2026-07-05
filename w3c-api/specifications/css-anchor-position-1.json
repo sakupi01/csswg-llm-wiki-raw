@@ -1,0 +1,72 @@
+{
+  "shortname": "css-anchor-position-1",
+  "title": "CSS Anchor Positioning Module Level 1",
+  "shortlink": "https://www.w3.org/TR/css-anchor-position-1/",
+  "series": null,
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2023-06-29",
+      "status": "First Public Working Draft",
+      "maturity": "FPWD",
+      "uri": "https://www.w3.org/TR/2023/WD-css-anchor-position-1-20230629/",
+      "editor_draft": "https://drafts.csswg.org/css-anchor-position-1/"
+    },
+    {
+      "date": "2024-03-14",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2024/WD-css-anchor-position-1-20240314/",
+      "editor_draft": "https://drafts.csswg.org/css-anchor-position-1/"
+    },
+    {
+      "date": "2024-03-26",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2024/WD-css-anchor-position-1-20240326/",
+      "editor_draft": "https://drafts.csswg.org/css-anchor-position-1/"
+    },
+    {
+      "date": "2024-10-04",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2024/WD-css-anchor-position-1-20241004/",
+      "editor_draft": "https://drafts.csswg.org/css-anchor-position-1/"
+    },
+    {
+      "date": "2025-05-09",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2025/WD-css-anchor-position-1-20250509/",
+      "editor_draft": "https://drafts.csswg.org/css-anchor-position-1/"
+    },
+    {
+      "date": "2025-10-07",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2025/WD-css-anchor-position-1-20251007/",
+      "editor_draft": "https://drafts.csswg.org/css-anchor-position-1/"
+    },
+    {
+      "date": "2025-12-22",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2025/WD-css-anchor-position-1-20251222/",
+      "editor_draft": "https://drafts.csswg.org/css-anchor-position-1/"
+    },
+    {
+      "date": "2026-01-30",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2026/WD-css-anchor-position-1-20260130/",
+      "editor_draft": "https://drafts.csswg.org/css-anchor-position-1/"
+    },
+    {
+      "date": "2026-03-27",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2026/WD-css-anchor-position-1-20260327/",
+      "editor_draft": "https://drafts.csswg.org/css-anchor-position-1/"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "shortname": "css-overflow-4",
+  "title": "CSS Overflow Module Level 4",
+  "shortlink": "https://www.w3.org/TR/css-overflow-4/",
+  "series": "css-overflow-4",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2017-06-13",
+      "status": "First Public Working Draft",
+      "maturity": "FPWD",
+      "uri": "https://www.w3.org/TR/2017/WD-css-overflow-4-20170613/",
+      "editor_draft": "https://drafts.csswg.org/css-overflow-4/"
+    },
+    {
+      "date": "2022-12-31",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2022/WD-css-overflow-4-20221231/",
+      "editor_draft": "https://drafts.csswg.org/css-overflow-4/"
+    },
+    {
+      "date": "2023-03-21",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2023/WD-css-overflow-4-20230321/",
+      "editor_draft": "https://drafts.csswg.org/css-overflow-4/"
+    }
+  ]
+}

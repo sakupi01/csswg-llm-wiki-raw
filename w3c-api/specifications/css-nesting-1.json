@@ -1,0 +1,30 @@
+{
+  "shortname": "css-nesting-1",
+  "title": "CSS Nesting Module Level 1",
+  "shortlink": "https://www.w3.org/TR/css-nesting-1/",
+  "series": "css-nesting-1",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2021-08-31",
+      "status": "First Public Working Draft",
+      "maturity": "FPWD",
+      "uri": "https://www.w3.org/TR/2021/WD-css-nesting-1-20210831/",
+      "editor_draft": "https://drafts.csswg.org/css-nesting/"
+    },
+    {
+      "date": "2023-02-14",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2023/WD-css-nesting-1-20230214/",
+      "editor_draft": "https://drafts.csswg.org/css-nesting/"
+    },
+    {
+      "date": "2026-01-22",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2026/WD-css-nesting-1-20260122/",
+      "editor_draft": "https://drafts.csswg.org/css-nesting/"
+    }
+  ]
+}

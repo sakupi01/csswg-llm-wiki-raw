@@ -1,0 +1,65 @@
+{
+  "shortname": "css-counter-styles-3",
+  "title": "CSS Counter Styles Level 3",
+  "shortlink": "https://www.w3.org/TR/css-counter-styles-3/",
+  "series": "css-counter-styles-3",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2012-10-09",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2012/WD-css-counter-styles-3-20121009/",
+      "editor_draft": "https://drafts.csswg.org/css-counter-styles/"
+    },
+    {
+      "date": "2013-02-21",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2013/WD-css-counter-styles-3-20130221/",
+      "editor_draft": "https://drafts.csswg.org/css-counter-styles/"
+    },
+    {
+      "date": "2013-07-18",
+      "status": "Last Call Working Draft",
+      "maturity": "LCWD",
+      "uri": "https://www.w3.org/TR/2013/WD-css-counter-styles-3-20130718/",
+      "editor_draft": "https://drafts.csswg.org/css-counter-styles/"
+    },
+    {
+      "date": "2014-08-26",
+      "status": "Last Call Working Draft",
+      "maturity": "LCWD",
+      "uri": "https://www.w3.org/TR/2014/WD-css-counter-styles-3-20140826/",
+      "editor_draft": "https://drafts.csswg.org/css-counter-styles/"
+    },
+    {
+      "date": "2015-02-03",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2015/CR-css-counter-styles-3-20150203/",
+      "editor_draft": "https://drafts.csswg.org/css-counter-styles/"
+    },
+    {
+      "date": "2015-06-11",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2015/CR-css-counter-styles-3-20150611/",
+      "editor_draft": "https://drafts.csswg.org/css-counter-styles/"
+    },
+    {
+      "date": "2017-12-14",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2017/CR-css-counter-styles-3-20171214/",
+      "editor_draft": "https://drafts.csswg.org/css-counter-styles/"
+    },
+    {
+      "date": "2021-07-27",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2021/CR-css-counter-styles-3-20210727/",
+      "editor_draft": "https://drafts.csswg.org/css-counter-styles/"
+    }
+  ]
+}

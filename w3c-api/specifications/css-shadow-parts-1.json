@@ -1,0 +1,23 @@
+{
+  "shortname": "css-shadow-parts-1",
+  "title": "CSS Shadow Parts Module Level 1",
+  "shortlink": "https://www.w3.org/TR/css-shadow-parts-1/",
+  "series": null,
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2018-11-15",
+      "status": "First Public Working Draft",
+      "maturity": "FPWD",
+      "uri": "https://www.w3.org/TR/2018/WD-css-shadow-parts-1-20181115/",
+      "editor_draft": "https://drafts.csswg.org/css-shadow-parts/"
+    },
+    {
+      "date": "2025-12-16",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2025/WD-css-shadow-parts-1-20251216/",
+      "editor_draft": "https://drafts.csswg.org/css-shadow-parts/"
+    }
+  ]
+}

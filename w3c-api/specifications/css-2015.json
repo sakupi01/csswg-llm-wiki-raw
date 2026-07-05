@@ -1,0 +1,16 @@
+{
+  "shortname": "css-2015",
+  "title": "CSS Snapshot 2015",
+  "shortlink": "https://www.w3.org/TR/css-2015/",
+  "series": "css-2015",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2015-10-13",
+      "status": "Retired",
+      "maturity": "RETIRED",
+      "uri": "https://www.w3.org/TR/2015/NOTE-css-2015-20151013/",
+      "editor_draft": "https://drafts.csswg.org/css-2015/"
+    }
+  ]
+}

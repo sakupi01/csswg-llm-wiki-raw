@@ -1,0 +1,16 @@
+{
+  "shortname": "css3-linebox",
+  "title": "CSS3 module: line",
+  "shortlink": "https://www.w3.org/TR/css3-linebox/",
+  "series": "css3-linebox",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2002-05-15",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2002/WD-css3-linebox-20020515/",
+      "editor_draft": null
+    }
+  ]
+}

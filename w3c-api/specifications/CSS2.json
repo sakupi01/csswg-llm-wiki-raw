@@ -1,0 +1,163 @@
+{
+  "shortname": "CSS2",
+  "title": "Cascading Style Sheets Level 2 Revision 1 (CSS 2.1) Specification",
+  "shortlink": "https://www.w3.org/TR/CSS2/",
+  "series": "CSS2",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "1997-11-04",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/WD-CSS2-971104",
+      "editor_draft": "https://drafts.csswg.org/css2/"
+    },
+    {
+      "date": "1997-11-04",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/WD-CSS2-971104",
+      "editor_draft": "https://drafts.csswg.org/css2/"
+    },
+    {
+      "date": "1998-01-28",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/1998/WD-css2-19980128",
+      "editor_draft": "https://drafts.csswg.org/css2/"
+    },
+    {
+      "date": "1998-01-28",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/1998/WD-css2-19980128",
+      "editor_draft": "https://drafts.csswg.org/css2/"
+    },
+    {
+      "date": "1998-03-24",
+      "status": "Proposed Recommendation",
+      "maturity": "PR",
+      "uri": "https://www.w3.org/TR/1998/PR-CSS2-19980324",
+      "editor_draft": "https://drafts.csswg.org/css2/"
+    },
+    {
+      "date": "1998-03-24",
+      "status": "Proposed Recommendation",
+      "maturity": "PR",
+      "uri": "https://www.w3.org/TR/1998/PR-CSS2-19980324",
+      "editor_draft": "https://drafts.csswg.org/css2/"
+    },
+    {
+      "date": "1998-05-12",
+      "status": "Recommendation",
+      "maturity": "REC",
+      "uri": "https://www.w3.org/TR/1998/REC-CSS2-19980512/",
+      "editor_draft": "https://drafts.csswg.org/css2/"
+    },
+    {
+      "date": "1998-05-12",
+      "status": "Recommendation",
+      "maturity": "REC",
+      "uri": "https://www.w3.org/TR/1998/REC-CSS2-19980512/",
+      "editor_draft": "https://drafts.csswg.org/css2/"
+    },
+    {
+      "date": "2002-08-02",
+      "status": "Last Call Working Draft",
+      "maturity": "LCWD",
+      "uri": "https://www.w3.org/TR/2002/WD-CSS21-20020802",
+      "editor_draft": "https://drafts.csswg.org/css2/"
+    },
+    {
+      "date": "2003-01-28",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2003/WD-CSS21-20030128",
+      "editor_draft": "https://drafts.csswg.org/css2/"
+    },
+    {
+      "date": "2003-09-15",
+      "status": "Last Call Working Draft",
+      "maturity": "LCWD",
+      "uri": "https://www.w3.org/TR/2003/WD-CSS21-20030915",
+      "editor_draft": "https://drafts.csswg.org/css2/"
+    },
+    {
+      "date": "2004-02-25",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2004/CR-CSS21-20040225",
+      "editor_draft": "https://drafts.csswg.org/css2/"
+    },
+    {
+      "date": "2005-06-13",
+      "status": "Last Call Working Draft",
+      "maturity": "LCWD",
+      "uri": "https://www.w3.org/TR/2005/WD-CSS21-20050613",
+      "editor_draft": "https://drafts.csswg.org/css2/"
+    },
+    {
+      "date": "2006-04-11",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2006/WD-CSS21-20060411",
+      "editor_draft": "https://drafts.csswg.org/css2/"
+    },
+    {
+      "date": "2006-11-06",
+      "status": "Last Call Working Draft",
+      "maturity": "LCWD",
+      "uri": "https://www.w3.org/TR/2006/WD-CSS21-20061106",
+      "editor_draft": "https://drafts.csswg.org/css2/"
+    },
+    {
+      "date": "2007-07-19",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2007/CR-CSS21-20070719",
+      "editor_draft": "https://drafts.csswg.org/css2/"
+    },
+    {
+      "date": "2008-04-11",
+      "status": "Recommendation",
+      "maturity": "REC",
+      "uri": "https://www.w3.org/TR/2008/REC-CSS2-20080411/",
+      "editor_draft": "https://drafts.csswg.org/css2/"
+    },
+    {
+      "date": "2009-04-23",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2009/CR-CSS2-20090423",
+      "editor_draft": "https://drafts.csswg.org/css2/"
+    },
+    {
+      "date": "2009-09-08",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2009/CR-CSS2-20090908",
+      "editor_draft": "https://drafts.csswg.org/css2/"
+    },
+    {
+      "date": "2010-12-07",
+      "status": "Last Call Working Draft",
+      "maturity": "LCWD",
+      "uri": "https://www.w3.org/TR/2010/WD-CSS2-20101207",
+      "editor_draft": "https://drafts.csswg.org/css2/"
+    },
+    {
+      "date": "2011-04-12",
+      "status": "Proposed Recommendation",
+      "maturity": "PR",
+      "uri": "https://www.w3.org/TR/2011/PR-CSS2-20110412",
+      "editor_draft": "https://drafts.csswg.org/css2/"
+    },
+    {
+      "date": "2011-06-07",
+      "status": "Recommendation",
+      "maturity": "REC",
+      "uri": "https://www.w3.org/TR/2011/REC-CSS2-20110607/",
+      "editor_draft": "https://drafts.csswg.org/css2/"
+    }
+  ]
+}

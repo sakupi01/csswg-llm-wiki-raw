@@ -1,0 +1,100 @@
+{
+  "shortname": "css-multicol-1",
+  "title": "CSS Multi-column Layout Module Level 1",
+  "shortlink": "https://www.w3.org/TR/css-multicol-1/",
+  "series": "css-multicol-1",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "1999-06-23",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/1999/06/WD-css3-multicol-19990623",
+      "editor_draft": "https://drafts.csswg.org/css-multicol/"
+    },
+    {
+      "date": "2001-01-18",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2001/WD-css3-multicol-20010118/",
+      "editor_draft": "https://drafts.csswg.org/css-multicol/"
+    },
+    {
+      "date": "2005-12-15",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2005/WD-css3-multicol-20051215",
+      "editor_draft": "https://drafts.csswg.org/css-multicol/"
+    },
+    {
+      "date": "2007-06-06",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2007/WD-css3-multicol-20070606",
+      "editor_draft": "https://drafts.csswg.org/css-multicol/"
+    },
+    {
+      "date": "2009-06-30",
+      "status": "Last Call Working Draft",
+      "maturity": "LCWD",
+      "uri": "https://www.w3.org/TR/2009/WD-css3-multicol-20090630/",
+      "editor_draft": "https://drafts.csswg.org/css-multicol/"
+    },
+    {
+      "date": "2009-12-17",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2009/CR-css3-multicol-20091217",
+      "editor_draft": "https://drafts.csswg.org/css-multicol/"
+    },
+    {
+      "date": "2011-04-12",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2011/CR-css3-multicol-20110412/",
+      "editor_draft": "https://drafts.csswg.org/css-multicol/"
+    },
+    {
+      "date": "2017-10-05",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2017/WD-css-multicol-1-20171005/",
+      "editor_draft": "https://drafts.csswg.org/css-multicol/"
+    },
+    {
+      "date": "2018-05-28",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2018/WD-css-multicol-1-20180528/",
+      "editor_draft": "https://drafts.csswg.org/css-multicol/"
+    },
+    {
+      "date": "2019-10-15",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2019/WD-css-multicol-1-20191015/",
+      "editor_draft": "https://drafts.csswg.org/css-multicol/"
+    },
+    {
+      "date": "2021-02-12",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2021/WD-css-multicol-1-20210212/",
+      "editor_draft": "https://drafts.csswg.org/css-multicol/"
+    },
+    {
+      "date": "2021-10-12",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2021/CR-css-multicol-1-20211012/",
+      "editor_draft": "https://drafts.csswg.org/css-multicol/"
+    },
+    {
+      "date": "2024-05-16",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2024/CR-css-multicol-1-20240516/",
+      "editor_draft": "https://drafts.csswg.org/css-multicol/"
+    }
+  ]
+}

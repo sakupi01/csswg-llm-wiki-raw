@@ -1,0 +1,65 @@
+{
+  "shortname": "css-conditional-3",
+  "title": "CSS Conditional Rules Module Level 3",
+  "shortlink": "https://www.w3.org/TR/css-conditional-3/",
+  "series": "css-conditional-3",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2011-09-01",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2011/WD-css3-conditional-20110901/",
+      "editor_draft": "https://drafts.csswg.org/css-conditional-3/"
+    },
+    {
+      "date": "2012-09-11",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2012/WD-css3-conditional-20120911/",
+      "editor_draft": "https://drafts.csswg.org/css-conditional-3/"
+    },
+    {
+      "date": "2012-12-13",
+      "status": "Last Call Working Draft",
+      "maturity": "LCWD",
+      "uri": "https://www.w3.org/TR/2012/WD-css3-conditional-20121213/",
+      "editor_draft": "https://drafts.csswg.org/css-conditional-3/"
+    },
+    {
+      "date": "2013-04-04",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2013/CR-css3-conditional-20130404/",
+      "editor_draft": "https://drafts.csswg.org/css-conditional-3/"
+    },
+    {
+      "date": "2020-12-08",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2020/CR-css-conditional-3-20201208/",
+      "editor_draft": "https://drafts.csswg.org/css-conditional-3/"
+    },
+    {
+      "date": "2021-12-23",
+      "status": "Candidate Recommendation Draft",
+      "maturity": "CRD",
+      "uri": "https://www.w3.org/TR/2021/CRD-css-conditional-3-20211223/",
+      "editor_draft": "https://drafts.csswg.org/css-conditional-3/"
+    },
+    {
+      "date": "2022-01-13",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2022/CR-css-conditional-3-20220113/",
+      "editor_draft": "https://drafts.csswg.org/css-conditional-3/"
+    },
+    {
+      "date": "2024-08-15",
+      "status": "Candidate Recommendation Draft",
+      "maturity": "CRD",
+      "uri": "https://www.w3.org/TR/2024/CRD-css-conditional-3-20240815/",
+      "editor_draft": "https://drafts.csswg.org/css-conditional-3/"
+    }
+  ]
+}

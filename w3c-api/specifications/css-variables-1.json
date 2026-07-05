@@ -1,0 +1,58 @@
+{
+  "shortname": "css-variables-1",
+  "title": "CSS Custom Properties for Cascading Variables Module Level 1",
+  "shortlink": "https://www.w3.org/TR/css-variables-1/",
+  "series": "css-variables-1",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2012-04-10",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2012/WD-css-variables-20120410/",
+      "editor_draft": "https://drafts.csswg.org/css-variables/"
+    },
+    {
+      "date": "2013-03-12",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2013/WD-css-variables-20130312/",
+      "editor_draft": "https://drafts.csswg.org/css-variables/"
+    },
+    {
+      "date": "2013-06-20",
+      "status": "Last Call Working Draft",
+      "maturity": "LCWD",
+      "uri": "https://www.w3.org/TR/2013/WD-css-variables-1-20130620/",
+      "editor_draft": "https://drafts.csswg.org/css-variables/"
+    },
+    {
+      "date": "2014-05-06",
+      "status": "Last Call Working Draft",
+      "maturity": "LCWD",
+      "uri": "https://www.w3.org/TR/2014/WD-css-variables-1-20140506/",
+      "editor_draft": "https://drafts.csswg.org/css-variables/"
+    },
+    {
+      "date": "2015-12-03",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2015/CR-css-variables-1-20151203/",
+      "editor_draft": "https://drafts.csswg.org/css-variables/"
+    },
+    {
+      "date": "2021-11-11",
+      "status": "Candidate Recommendation Draft",
+      "maturity": "CRD",
+      "uri": "https://www.w3.org/TR/2021/CRD-css-variables-1-20211111/",
+      "editor_draft": "https://drafts.csswg.org/css-variables/"
+    },
+    {
+      "date": "2022-06-16",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2022/CR-css-variables-1-20220616/",
+      "editor_draft": "https://drafts.csswg.org/css-variables/"
+    }
+  ]
+}

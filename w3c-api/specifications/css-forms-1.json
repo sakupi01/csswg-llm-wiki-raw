@@ -1,0 +1,16 @@
+{
+  "shortname": "css-forms-1",
+  "title": "CSS Form Control Styling Level 1",
+  "shortlink": "https://www.w3.org/TR/css-forms-1/",
+  "series": "css-forms-1",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2025-03-25",
+      "status": "First Public Working Draft",
+      "maturity": "FPWD",
+      "uri": "https://www.w3.org/TR/2025/WD-css-forms-1-20250325/",
+      "editor_draft": "https://drafts.csswg.org/css-forms-1/"
+    }
+  ]
+}

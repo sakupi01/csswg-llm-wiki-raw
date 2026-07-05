@@ -1,0 +1,23 @@
+{
+  "shortname": "css3-reader",
+  "title": "The CSS ‘Reader’ Media Type",
+  "shortlink": "https://www.w3.org/TR/css3-reader/",
+  "series": null,
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2004-02-24",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2004/WD-css3-reader-20040224",
+      "editor_draft": null
+    },
+    {
+      "date": "2014-10-14",
+      "status": "Retired",
+      "maturity": "RETIRED",
+      "uri": "https://www.w3.org/TR/2014/NOTE-css3-reader-20141014/",
+      "editor_draft": null
+    }
+  ]
+}

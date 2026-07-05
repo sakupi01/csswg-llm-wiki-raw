@@ -1,0 +1,51 @@
+{
+  "shortname": "css-syntax-3",
+  "title": "CSS Syntax Module Level 3",
+  "shortlink": "https://www.w3.org/TR/css-syntax-3/",
+  "series": "css-syntax-3",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2003-08-13",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2003/WD-css3-syntax-20030813",
+      "editor_draft": "https://drafts.csswg.org/css-syntax/"
+    },
+    {
+      "date": "2013-09-19",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2013/WD-css-syntax-3-20130919/",
+      "editor_draft": "https://drafts.csswg.org/css-syntax/"
+    },
+    {
+      "date": "2013-11-05",
+      "status": "Last Call Working Draft",
+      "maturity": "LCWD",
+      "uri": "https://www.w3.org/TR/2013/WD-css-syntax-3-20131105/",
+      "editor_draft": "https://drafts.csswg.org/css-syntax/"
+    },
+    {
+      "date": "2014-02-20",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2014/CR-css-syntax-3-20140220/",
+      "editor_draft": "https://drafts.csswg.org/css-syntax/"
+    },
+    {
+      "date": "2019-07-16",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2019/CR-css-syntax-3-20190716/",
+      "editor_draft": "https://drafts.csswg.org/css-syntax/"
+    },
+    {
+      "date": "2021-12-24",
+      "status": "Candidate Recommendation Draft",
+      "maturity": "CRD",
+      "uri": "https://www.w3.org/TR/2021/CRD-css-syntax-3-20211224/",
+      "editor_draft": "https://drafts.csswg.org/css-syntax/"
+    }
+  ]
+}

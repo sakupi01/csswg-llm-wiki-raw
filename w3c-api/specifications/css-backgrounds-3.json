@@ -1,0 +1,135 @@
+{
+  "shortname": "css-backgrounds-3",
+  "title": "CSS Backgrounds and Borders Module Level 3",
+  "shortlink": "https://www.w3.org/TR/css-backgrounds-3/",
+  "series": "css-backgrounds-3",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2002-08-02",
+      "status": "Last Call Working Draft",
+      "maturity": "LCWD",
+      "uri": "https://www.w3.org/TR/2002/WD-css3-background-20020802",
+      "editor_draft": "https://drafts.csswg.org/css-backgrounds/"
+    },
+    {
+      "date": "2005-02-16",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2005/WD-css3-background-20050216",
+      "editor_draft": "https://drafts.csswg.org/css-backgrounds/"
+    },
+    {
+      "date": "2008-09-10",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2008/WD-css3-background-20080910",
+      "editor_draft": "https://drafts.csswg.org/css-backgrounds/"
+    },
+    {
+      "date": "2009-10-15",
+      "status": "Last Call Working Draft",
+      "maturity": "LCWD",
+      "uri": "https://www.w3.org/TR/2009/WD-css3-background-20091015",
+      "editor_draft": "https://drafts.csswg.org/css-backgrounds/"
+    },
+    {
+      "date": "2009-12-17",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2009/CR-css3-background-20091217",
+      "editor_draft": "https://drafts.csswg.org/css-backgrounds/"
+    },
+    {
+      "date": "2010-06-12",
+      "status": "Last Call Working Draft",
+      "maturity": "LCWD",
+      "uri": "https://www.w3.org/TR/2010/WD-css3-background-20100612",
+      "editor_draft": "https://drafts.csswg.org/css-backgrounds/"
+    },
+    {
+      "date": "2011-02-15",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2011/CR-css3-background-20110215/",
+      "editor_draft": "https://drafts.csswg.org/css-backgrounds/"
+    },
+    {
+      "date": "2012-02-14",
+      "status": "Last Call Working Draft",
+      "maturity": "LCWD",
+      "uri": "https://www.w3.org/TR/2012/WD-css3-background-20120214/",
+      "editor_draft": "https://drafts.csswg.org/css-backgrounds/"
+    },
+    {
+      "date": "2012-04-17",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2012/CR-css3-background-20120417/",
+      "editor_draft": "https://drafts.csswg.org/css-backgrounds/"
+    },
+    {
+      "date": "2012-07-24",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2012/CR-css3-background-20120724/",
+      "editor_draft": "https://drafts.csswg.org/css-backgrounds/"
+    },
+    {
+      "date": "2014-02-04",
+      "status": "Last Call Working Draft",
+      "maturity": "LCWD",
+      "uri": "https://www.w3.org/TR/2014/WD-css3-background-20140204/",
+      "editor_draft": "https://drafts.csswg.org/css-backgrounds/"
+    },
+    {
+      "date": "2014-09-09",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2014/CR-css3-background-20140909/",
+      "editor_draft": "https://drafts.csswg.org/css-backgrounds/"
+    },
+    {
+      "date": "2017-10-17",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2017/CR-css-backgrounds-3-20171017/",
+      "editor_draft": "https://drafts.csswg.org/css-backgrounds/"
+    },
+    {
+      "date": "2020-12-22",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2020/CR-css-backgrounds-3-20201222/",
+      "editor_draft": "https://drafts.csswg.org/css-backgrounds/"
+    },
+    {
+      "date": "2021-07-26",
+      "status": "Candidate Recommendation Draft",
+      "maturity": "CRD",
+      "uri": "https://www.w3.org/TR/2021/CRD-css-backgrounds-3-20210726/",
+      "editor_draft": "https://drafts.csswg.org/css-backgrounds/"
+    },
+    {
+      "date": "2023-02-14",
+      "status": "Candidate Recommendation Draft",
+      "maturity": "CRD",
+      "uri": "https://www.w3.org/TR/2023/CRD-css-backgrounds-3-20230214/",
+      "editor_draft": "https://drafts.csswg.org/css-backgrounds/"
+    },
+    {
+      "date": "2023-12-19",
+      "status": "Candidate Recommendation Draft",
+      "maturity": "CRD",
+      "uri": "https://www.w3.org/TR/2023/CRD-css-backgrounds-3-20231219/",
+      "editor_draft": "https://drafts.csswg.org/css-backgrounds/"
+    },
+    {
+      "date": "2024-03-11",
+      "status": "Candidate Recommendation Draft",
+      "maturity": "CRD",
+      "uri": "https://www.w3.org/TR/2024/CRD-css-backgrounds-3-20240311/",
+      "editor_draft": "https://drafts.csswg.org/css-backgrounds/"
+    }
+  ]
+}

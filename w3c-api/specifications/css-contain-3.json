@@ -1,0 +1,23 @@
+{
+  "shortname": "css-contain-3",
+  "title": "CSS Containment Module Level 3",
+  "shortlink": "https://www.w3.org/TR/css-contain-3/",
+  "series": "css-contain-3",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2021-12-21",
+      "status": "First Public Working Draft",
+      "maturity": "FPWD",
+      "uri": "https://www.w3.org/TR/2021/WD-css-contain-3-20211221/",
+      "editor_draft": "https://drafts.csswg.org/css-contain-3/"
+    },
+    {
+      "date": "2022-08-18",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2022/WD-css-contain-3-20220818/",
+      "editor_draft": "https://drafts.csswg.org/css-contain-3/"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "shortname": "css-ruby-1",
+  "title": "CSS Ruby Annotation Layout Module Level 1",
+  "shortlink": "https://www.w3.org/TR/css-ruby-1/",
+  "series": "css-ruby-1",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2001-02-16",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2001/WD-css3-ruby-20010216/",
+      "editor_draft": "https://drafts.csswg.org/css-ruby-1/"
+    },
+    {
+      "date": "2002-10-24",
+      "status": "Last Call Working Draft",
+      "maturity": "LCWD",
+      "uri": "https://www.w3.org/TR/2002/WD-css3-ruby-20021024",
+      "editor_draft": "https://drafts.csswg.org/css-ruby-1/"
+    },
+    {
+      "date": "2003-05-14",
+      "status": "Candidate Recommendation Snapshot",
+      "maturity": "CR",
+      "uri": "https://www.w3.org/TR/2003/CR-css3-ruby-20030514",
+      "editor_draft": "https://drafts.csswg.org/css-ruby-1/"
+    },
+    {
+      "date": "2011-06-30",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2011/WD-css3-ruby-20110630/",
+      "editor_draft": "https://drafts.csswg.org/css-ruby-1/"
+    },
+    {
+      "date": "2013-09-19",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2013/WD-css3-ruby-20130919/",
+      "editor_draft": "https://drafts.csswg.org/css-ruby-1/"
+    },
+    {
+      "date": "2014-08-05",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2014/WD-css-ruby-1-20140805/",
+      "editor_draft": "https://drafts.csswg.org/css-ruby-1/"
+    },
+    {
+      "date": "2020-04-29",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2020/WD-css-ruby-1-20200429/",
+      "editor_draft": "https://drafts.csswg.org/css-ruby-1/"
+    },
+    {
+      "date": "2021-03-10",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2021/WD-css-ruby-1-20210310/",
+      "editor_draft": "https://drafts.csswg.org/css-ruby-1/"
+    },
+    {
+      "date": "2021-12-02",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2021/WD-css-ruby-1-20211202/",
+      "editor_draft": "https://drafts.csswg.org/css-ruby-1/"
+    },
+    {
+      "date": "2022-12-31",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2022/WD-css-ruby-1-20221231/",
+      "editor_draft": "https://drafts.csswg.org/css-ruby-1/"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "shortname": "motion-1",
+  "title": "Motion Path Module Level 1",
+  "shortlink": "https://www.w3.org/TR/motion-1/",
+  "series": "motion-1",
+  "snapshot_at": "2026-07-04",
+  "versions": [
+    {
+      "date": "2015-04-09",
+      "status": "First Public Working Draft",
+      "maturity": "FPWD",
+      "uri": "https://www.w3.org/TR/2015/WD-motion-1-20150409/",
+      "editor_draft": "https://drafts.csswg.org/motion-1/"
+    },
+    {
+      "date": "2017-07-11",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2017/WD-motion-1-20170711/",
+      "editor_draft": "https://drafts.csswg.org/motion-1/"
+    },
+    {
+      "date": "2018-12-18",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2018/WD-motion-1-20181218/",
+      "editor_draft": "https://drafts.csswg.org/motion-1/"
+    },
+    {
+      "date": "2024-11-05",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2024/WD-motion-1-20241105/",
+      "editor_draft": "https://drafts.csswg.org/motion-1/"
+    }
+  ]
+}
