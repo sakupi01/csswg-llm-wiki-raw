@@ -1,0 +1,16 @@
+{
+  "shortname": "css-link-params-1",
+  "title": "CSS Linked Parameters Module Level 1",
+  "shortlink": "https://www.w3.org/TR/css-link-params-1/",
+  "series": "css-link-params-1",
+  "snapshot_at": "2026-07-16",
+  "versions": [
+    {
+      "date": "2026-07-14",
+      "status": "First Public Working Draft",
+      "maturity": "FPWD",
+      "uri": "https://www.w3.org/TR/2026/WD-css-link-params-1-20260714/",
+      "editor_draft": "https://drafts.csswg.org/css-link-params/"
+    }
+  ]
+}
