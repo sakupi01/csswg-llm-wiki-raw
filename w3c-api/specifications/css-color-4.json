@@ -3,7 +3,7 @@
   "title": "CSS Color Module Level 4",
   "shortlink": "https://www.w3.org/TR/css-color-4/",
   "series": "css-color-4",
-  "snapshot_at": "2026-07-23",
+  "snapshot_at": "2026-07-28",
   "versions": [
     {
       "date": "2016-07-05",
@@ -171,6 +171,13 @@
       "status": "Candidate Recommendation Draft",
       "maturity": "CRD",
       "uri": "https://www.w3.org/TR/2026/CRD-css-color-4-20260717/",
+      "editor_draft": "https://drafts.csswg.org/css-color-4/"
+    },
+    {
+      "date": "2026-07-28",
+      "status": "Candidate Recommendation Draft",
+      "maturity": "CRD",
+      "uri": "https://www.w3.org/TR/2026/CRD-css-color-4-20260728/",
       "editor_draft": "https://drafts.csswg.org/css-color-4/"
     }
   ]
