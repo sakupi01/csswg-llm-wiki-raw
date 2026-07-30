@@ -3,7 +3,7 @@
   "title": "CSS Color HDR Module Level 1",
   "shortlink": "https://www.w3.org/TR/css-color-hdr-1/",
   "series": "css-color-hdr-1",
-  "snapshot_at": "2026-07-04",
+  "snapshot_at": "2026-07-30",
   "versions": [
     {
       "date": "2024-12-17",
@@ -31,6 +31,13 @@
       "status": "Working Draft",
       "maturity": "WD",
       "uri": "https://www.w3.org/TR/2026/WD-css-color-hdr-1-20260624/",
+      "editor_draft": "https://drafts.csswg.org/css-color-hdr-1/"
+    },
+    {
+      "date": "2026-07-28",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2026/WD-css-color-hdr-1-20260728/",
       "editor_draft": "https://drafts.csswg.org/css-color-hdr-1/"
     }
   ]
