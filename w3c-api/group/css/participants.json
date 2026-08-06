@@ -1,5 +1,5 @@
 {
-  "snapshot_at": "2026-07-30",
+  "snapshot_at": "2026-08-06",
   "participations": [
     {
       "title": "Wix.com Ltd.",
@@ -52,10 +52,6 @@
     {
       "title": "Igalia",
       "href": "https://api.w3.org/participations/44830"
-    },
-    {
-      "title": "MITRE Corporation",
-      "href": "https://api.w3.org/participations/44832"
     },
     {
       "title": "Brian Birtles",
@@ -128,10 +124,6 @@
     {
       "title": "Salesforce",
       "href": "https://api.w3.org/participations/45026"
-    },
-    {
-      "title": "Taiwan Digital Publishing Forum",
-      "href": "https://api.w3.org/participations/45028"
     },
     {
       "title": "Samuel Weinig",

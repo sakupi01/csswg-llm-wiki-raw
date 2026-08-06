@@ -3,7 +3,7 @@
   "title": "CSS Color Module Level 5",
   "shortlink": "https://www.w3.org/TR/css-color-5/",
   "series": "css-color-5",
-  "snapshot_at": "2026-07-04",
+  "snapshot_at": "2026-08-06",
   "versions": [
     {
       "date": "2020-03-03",
@@ -143,6 +143,13 @@
       "status": "Working Draft",
       "maturity": "WD",
       "uri": "https://www.w3.org/TR/2026/WD-css-color-5-20260618/",
+      "editor_draft": "https://drafts.csswg.org/css-color-5/"
+    },
+    {
+      "date": "2026-07-31",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2026/WD-css-color-5-20260731/",
       "editor_draft": "https://drafts.csswg.org/css-color-5/"
     }
   ]
