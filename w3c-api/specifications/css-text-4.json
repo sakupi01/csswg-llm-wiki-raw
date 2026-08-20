@@ -3,7 +3,7 @@
   "title": "CSS Text Module Level 4",
   "shortlink": "https://www.w3.org/TR/css-text-4/",
   "series": "css-text-4",
-  "snapshot_at": "2026-07-04",
+  "snapshot_at": "2026-08-20",
   "versions": [
     {
       "date": "2015-09-22",
@@ -87,6 +87,13 @@
       "status": "Working Draft",
       "maturity": "WD",
       "uri": "https://www.w3.org/TR/2026/WD-css-text-4-20260608/",
+      "editor_draft": "https://drafts.csswg.org/css-text-4/"
+    },
+    {
+      "date": "2026-08-14",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2026/WD-css-text-4-20260814/",
       "editor_draft": "https://drafts.csswg.org/css-text-4/"
     }
   ]
