@@ -1,7 +1,7 @@
 {
   "repo": "w3c/csswg-drafts",
-  "issues_cursor": "2026-08-20T01:20:52Z",
-  "comments_cursor": "2026-08-20T01:20:52Z",
+  "issues_cursor": "2026-08-20T13:36:01Z",
+  "comments_cursor": "2026-08-20T13:36:01Z",
   "pr_numbers": [
     1,
     2,
@@ -3019,7 +3019,8 @@
     14326,
     14336,
     14342,
+    14353,
     14354
   ],
-  "last_run": "2026-08-20T01:50:15Z"
+  "last_run": "2026-08-20T13:53:49Z"
 }
