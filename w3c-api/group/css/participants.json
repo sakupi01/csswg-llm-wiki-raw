@@ -1,5 +1,5 @@
 {
-  "snapshot_at": "2026-08-27",
+  "snapshot_at": "2026-09-03",
   "participations": [
     {
       "title": "Wix.com Ltd.",
@@ -200,6 +200,10 @@
     {
       "title": "Estelle Weyl",
       "href": "https://api.w3.org/participations/48436"
+    },
+    {
+      "title": "Dave Letorey",
+      "href": "https://api.w3.org/participations/49010"
     }
   ]
 }
