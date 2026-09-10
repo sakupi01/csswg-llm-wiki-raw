@@ -3,7 +3,7 @@
   "title": "CSS Box Sizing Module Level 4",
   "shortlink": "https://www.w3.org/TR/css-sizing-4/",
   "series": "css-sizing-4",
-  "snapshot_at": "2026-07-04",
+  "snapshot_at": "2026-09-10",
   "versions": [
     {
       "date": "2020-05-26",
@@ -24,6 +24,13 @@
       "status": "Working Draft",
       "maturity": "WD",
       "uri": "https://www.w3.org/TR/2021/WD-css-sizing-4-20210520/",
+      "editor_draft": "https://drafts.csswg.org/css-sizing-4/"
+    },
+    {
+      "date": "2026-09-04",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2026/WD-css-sizing-4-20260904/",
       "editor_draft": "https://drafts.csswg.org/css-sizing-4/"
     }
   ]

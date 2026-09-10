@@ -3,7 +3,7 @@
   "title": "CSS Fonts Module Level 4",
   "shortlink": "https://www.w3.org/TR/css-fonts-4/",
   "series": "css-fonts-4",
-  "snapshot_at": "2026-09-03",
+  "snapshot_at": "2026-09-10",
   "versions": [
     {
       "date": "2017-07-11",
@@ -115,6 +115,20 @@
       "status": "Working Draft",
       "maturity": "WD",
       "uri": "https://www.w3.org/TR/2026/WD-css-fonts-4-20260831/",
+      "editor_draft": "https://drafts.csswg.org/css-fonts-4/"
+    },
+    {
+      "date": "2026-09-06",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2026/WD-css-fonts-4-20260906/",
+      "editor_draft": "https://drafts.csswg.org/css-fonts-4/"
+    },
+    {
+      "date": "2026-09-07",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2026/WD-css-fonts-4-20260907/",
       "editor_draft": "https://drafts.csswg.org/css-fonts-4/"
     }
   ]

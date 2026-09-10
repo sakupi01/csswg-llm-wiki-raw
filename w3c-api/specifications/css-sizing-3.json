@@ -3,7 +3,7 @@
   "title": "CSS Box Sizing Module Level 3",
   "shortlink": "https://www.w3.org/TR/css-sizing-3/",
   "series": "css-sizing-3",
-  "snapshot_at": "2026-07-04",
+  "snapshot_at": "2026-09-10",
   "versions": [
     {
       "date": "2012-09-27",
@@ -73,6 +73,13 @@
       "status": "Working Draft",
       "maturity": "WD",
       "uri": "https://www.w3.org/TR/2021/WD-css-sizing-3-20211217/",
+      "editor_draft": "https://drafts.csswg.org/css-sizing-3/"
+    },
+    {
+      "date": "2026-09-04",
+      "status": "Working Draft",
+      "maturity": "WD",
+      "uri": "https://www.w3.org/TR/2026/WD-css-sizing-3-20260904/",
       "editor_draft": "https://drafts.csswg.org/css-sizing-3/"
     }
   ]
