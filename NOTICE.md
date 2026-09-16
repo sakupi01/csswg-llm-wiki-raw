@@ -1,14 +1,21 @@
 # NOTICE
 
 This repository is a **read-only archival mirror** of public primary sources of the
-[CSS Working Group](https://www.w3.org/Style/CSS/), maintained as the raw-data layer of
-[sakupi01/csswg-llm-wiki](https://github.com/sakupi01/csswg-llm-wiki).
+[CSS Working Group](https://www.w3.org/Style/CSS/) and adjacent standards venues
+([Open UI CG](https://open-ui.org/), [WHATWG](https://whatwg.org/)), maintained as the
+raw-data layer of [sakupi01/csswg-llm-wiki](https://github.com/sakupi01/csswg-llm-wiki).
 
 ## What is mirrored
 
 - `github/csswg-drafts/` — issues and selected pull-request conversations of
   [w3c/csswg-drafts](https://github.com/w3c/csswg-drafts), rendered to Markdown.
   Every item records its author, timestamps, and a permalink to the original.
+- `github/open-ui/` — issues and selected pull-request conversations of
+  [openui/open-ui](https://github.com/openui/open-ui) (Open UI Community Group),
+  same format and provenance guarantees.
+- `github/html/` — a **selective** mirror of [whatwg/html](https://github.com/whatwg/html):
+  only the form-controls-related set (label `topic: select` plus issues referenced from
+  the mirrored CSSWG / Open UI form-control threads).
 - `w3c-api/` — specification status metadata retrieved from the public
   [W3C API](https://api.w3.org/) (snapshot dates recorded in each file).
 - `www-style/` — selected messages (primarily `[CSSWG] Minutes`/`Resolutions`
