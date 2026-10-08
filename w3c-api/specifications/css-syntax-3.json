@@ -3,7 +3,7 @@
   "title": "CSS Syntax Module Level 3",
   "shortlink": "https://www.w3.org/TR/css-syntax-3/",
   "series": "css-syntax-3",
-  "snapshot_at": "2026-07-04",
+  "snapshot_at": "2026-10-08",
   "versions": [
     {
       "date": "2003-08-13",
@@ -45,6 +45,13 @@
       "status": "Candidate Recommendation Draft",
       "maturity": "CRD",
       "uri": "https://www.w3.org/TR/2021/CRD-css-syntax-3-20211224/",
+      "editor_draft": "https://drafts.csswg.org/css-syntax/"
+    },
+    {
+      "date": "2026-10-01",
+      "status": "Candidate Recommendation Draft",
+      "maturity": "CRD",
+      "uri": "https://www.w3.org/TR/2026/CRD-css-syntax-3-20261001/",
       "editor_draft": "https://drafts.csswg.org/css-syntax/"
     }
   ]
