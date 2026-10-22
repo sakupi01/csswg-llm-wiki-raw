@@ -1,0 +1,16 @@
+{
+  "shortname": "animation-triggers-1",
+  "title": "Animation Triggers",
+  "shortlink": "https://www.w3.org/TR/animation-triggers-1/",
+  "series": null,
+  "snapshot_at": "2026-10-22",
+  "versions": [
+    {
+      "date": "2026-10-20",
+      "status": "First Public Working Draft",
+      "maturity": "FPWD",
+      "uri": "https://www.w3.org/TR/2026/WD-animation-triggers-1-20261020/",
+      "editor_draft": "https://drafts.csswg.org/animation-triggers-1/"
+    }
+  ]
+}
