@@ -1,5 +1,5 @@
 {
-  "snapshot_at": "2026-10-23",
+  "snapshot_at": "2026-10-29",
   "participations": [
     {
       "title": "Wix.com Ltd.",
@@ -204,6 +204,10 @@
     {
       "title": "Dave Letorey",
       "href": "https://api.w3.org/participations/49010"
+    },
+    {
+      "title": "Global Cybersecurity Community Forum",
+      "href": "https://api.w3.org/participations/49657"
     }
   ]
 }
